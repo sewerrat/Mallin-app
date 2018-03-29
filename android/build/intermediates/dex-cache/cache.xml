@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-services\2.2.9\32099854fcd364940c562d83c1394aa917faa79b\mapbox-java-services-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="32099854fcd364940c562d83c1394aa917faa79b">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\mapbox-java-services-2.2.9_c5e1ea53d033cc92798451f8fc0b538695f836fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_f7ed05067113419c2515f3cf120f753de1aeaca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.6.0\81887458b69ddc32722df7e4c35235fd74e6a8ba\logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.6.0_a5fb7a42240d717d18b177ffccbd7459edf79a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_3dbe2d53d411c85448f9d33d000444b0aa494bd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_994473d61bfbbaca9ba15e9585706b7b75297088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.2_87d3c2fc2687ee77569d056ac8ff9ab8e32c8997.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-core\2.2.9\c18aa432e1830aba56d861494f131a34a0b8ce69\mapbox-java-core-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c18aa432e1830aba56d861494f131a34a0b8ce69">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\mapbox-java-core-2.2.9_8bdcded2481b7a1b77991c85b50be690c5d5f35e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_d991b7b0b7c6fc22e8be7cdbf64529e550cd9297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_7ed0e711383258766655c1bc76f005e46775b687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.1\84b4b7d1c4a238e7899972b7446c250691e65f1f\okhttp-3.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\okhttp-3.9.1_e7535ebe8a0b45ca0ed71017496a146db9a05e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_83d7f0a9c73ee03f97d6adf3c43af2e9c0c744a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\5.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68eea7ff8efd77b77cdca73805f85caf7e40be04">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-5.4.1_a93992c531dc2123d9dd74fc52a43496ac741878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-services\2.2.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9adc627fc283339f926c4e10d82a42bc39e0d77f">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-services-2.2.9_6cbbbd73ca4fafc36f29b78073ce8a445f0341b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_7351e47762c78d4f0c316c7133a1cf7427926c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\common-1.0.3_425e1f7fef65ffb4c234b85e9160684a6600a4eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_5cd15392358ebd95077fefcecedbce00d9607f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.2_bb0136dee295bdd56432bd0dac74cc8045d2de2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.mapzen.android\lost\3.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d35b57785e805406538454943d0ed0ba97f6e653">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.mapzen.android-lost-3.0.4_f7601d907e86160cfe8da45c40b31526aa2be967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_391463bb540e9e484dd4b1f15693b6aea68c31af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.2_3d6ee168e79ae71b9265662f28a96c7979aa2330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\gson-2.8.0_876716d66400a95dc8e2380bbc2fb8266e8c6fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d03ccf96c219b0a1c6063123ed2e97fd6be77bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.2_7dcdef30feb901269d6216bd946e1ba03d8f0dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4b2d07f780d8b29d39c0daf1129d544e726cc1b">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.jakewharton.timber-timber-4.6.0_4a94a211921f5f7c9fa53888f81ae95326a9fc0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_1adf29f82b3854c92f1658784515fd7909291149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-geojson\2.2.9\c53f47c9fdf762ae6fd86efd056da7a1651a0fed\mapbox-java-geojson-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c53f47c9fdf762ae6fd86efd056da7a1651a0fed">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\mapbox-java-geojson-2.2.9_b16ef25fa103f1593c22990d11a0026fec61c85e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c720afde80a9a3fe885b861d79ff1bdcacf4ad10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.2_0c11b6b25efa4412547869ffcf505100b3e937a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-plugin-locationlayer\0.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1cad667a0222bae157d31a08af83400e470a05f">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-plugin-locationlayer-0.3.0_15d41d07ada061049c970ab27fbf267404230db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\myMap\mapbox-react-native-mapbox-gl\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e8b772ce119e0fd5884b86ab589564ddd424ff5e">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\myMap-mapbox-react-native-mapbox-gl-unspecified_fb5d035181c468530b63e066f40d1410e4d8888b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-telemetry\2.2.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="612aa385190830bd6db2f01552caf3519835dc9a">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-telemetry-2.2.9_bb165f1266acc7ecacfe937f70fa0ff7f8e4be6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_504a84098bae8ddc427111638c1b22c5edabdd3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_64f6ca349640da0781b6776358954548c99cad29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_394cb0d86702d5eef980dff3d4662501e43f5dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.3_ef917c72f201419f210be311b134cb8b7a308262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8eb946bd76a02cd0caef4ca77096723fd5e76e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.2_009b0380878844c2f97f4bd0a45fd432e3593bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2e536cdf0e7448fbaa1dd8622f09d6f2630e29e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.2_8cb76694978969d1ff0bcc1baf29bdaaf04864c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_69f66456e07a4932149853e8ac861161afca2709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_3075ba499bc1a2888b6191af52d81e5291c09f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="G:\dong bat\Mallin\Mallin-app\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_b1f0ced9a504170e236d7ddf629208dcd67f7d3c.jar" />
+    </item>
+
+</items>

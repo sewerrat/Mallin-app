@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]
