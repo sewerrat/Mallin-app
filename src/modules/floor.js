@@ -1,5 +1,5 @@
 
-import {floorService} from 'mallin-app/src/services';
+import {FloorService} from 'mallin-app/src/services';
 
 export const FLOOR_LOADING = 'mallin-app/map/FLOOR_LOADING';
 export const FLOOR_LOADED = 'mallin-app/map/FLOOR_LOADED';
@@ -13,9 +13,8 @@ export const loadFloors = function(query) {
 	return function(dispatch, getState) {
 		dispatch({ type: 'FLOOR_LOADING' });
 		try {
-			var response = ;
-			var buses = await response.json();
-			dispatch({ type: 'FLOOR_LOADED', floor });
+			var floors = FloorService.loadFloors(query);
+			dispatch({ type: 'FLOOR_LOADED', floors });
 		} catch (error) {
 			dispatch({ type: 'FLOOR_LOAD_ERROR', error });
 			console.log('error');
@@ -26,43 +25,33 @@ export const loadFloors = function(query) {
 
 export default (
   state = {
-		floor: 1,
-		
-    statusText: 'Detecting floor ...',
+		floor: [],
   },
   action
 ) => {
   switch (action.type) {
-    case FLOOR_CHANGED:{
-			const floor = action.floor;
-			const url = getFloorMapUrl(1);
-			const styleURL = MapboxGL.StyleURL.Light;//mapConst.defaultStyle;
+    case FLOOR_LOADING:{
       return {
         ...state,
-				floor,
-        url,
-        styleURL
+				floorLoading: true
       };
 		}
 			
-    case CHANGE_MAP:{
-      const mapInfo = action.mapInfo;
-      const floor = mapInfo.floor;
-			const url = getFloorMapUrl(floor);
-			const styleURL = mapInfo.styleURL;
+    case FLOOR_LOADED:{
+      const floors = action.floors;
       return {
 				...state,
-				floor,
-				url,
-        styleURL,
+				floors,
+				floorLoading: false
 			};
 		}
 			
-		case CHANGE_GRANT:
-      const isAndroidPermissionGranted = action.isAndroidPermissionGranted;
-      return {
+		case FLOOR_LOAD_ERROR:
+			const error = action.error;
+			return {
         ...state,
-        isAndroidPermissionGranted: isAndroidPermissionGranted,
+				error,
+				floorLoading: false
       };
     default:
       return state;

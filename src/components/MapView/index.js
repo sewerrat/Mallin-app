@@ -3,8 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import MapboxGL from '@mapbox/react-native-mapbox-gl';
 
 import mapConst from 'mallin-app/src/const/mapConst';
-
-import { initMap } from '../../modules/map';
+import Resource from './resource';
 
 export default class MapView extends Component {
 	constructor(props) {
@@ -22,44 +21,10 @@ export default class MapView extends Component {
 		});
 	}
 
-	renderRaster() {
-		alert(this.props.url);
-		if (!this.props.url) {
-			return null;
-		}
-		return (
-			<MapboxGL.RasterSource
-			id='test'
-			tileSize={256}
-			tms={true}
-			url={this.props.url}>
-					<MapboxGL.RasterLayer id='testLayer' sourceID='test'/>
-			</MapboxGL.RasterSource>
-		);
-	}
-
 	render() {
-		if (this.props.isAndroidPermissionGranted) { 
-			return(
-				<View style={styles.havePermission}>
-					<Text>{this.props.styleURL}</Text>
-					<MapboxGL.MapView
-					style={styles.map}
-					zoomLevel={12}
-					styleURL={this.props.styleURL}
-					showUserLocation={true}
-					userTrackingMode={MapboxGL.UserTrackingModes.Follow}
-					showUserLocation={true} >
-						 {this.renderRaster()}
-					</MapboxGL.MapView>
-				</View>
-			)
-		}
-		return (
-			<View style={styles.container}>
-					<Text>Location, plzzz</Text>
-			</View>
-		);
+		<View style={styles.havePermission}>
+			<Resource />
+		</View>
 	}
 }
 

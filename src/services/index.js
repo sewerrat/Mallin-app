@@ -1,2 +1,2 @@
 
-export floorService from './floorService';
+export FloorService from './floorService';
