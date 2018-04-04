@@ -1,18 +1,26 @@
 [
     {
-        "merged": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_selected.png",
-        "source": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_selected.png"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_selected.png",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_selected.png"
     },
     {
-        "merged": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_default.png",
-        "source": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_default.png"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_default.png",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_default.png"
     },
     {
-        "merged": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_selected.png",
-        "source": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_selected.png"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_selected.png",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_selected.png"
     },
     {
-        "merged": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_default.png",
-        "source": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_default.png"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mapbox_info_icon_default.png",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.4.1\\res\\drawable-ldpi-v4\\mapbox_info_icon_default.png"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/mapbox_info_icon_selected.png",
+        "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.4.1/res/drawable-ldpi-v4/mapbox_info_icon_selected.png"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/mapbox_info_icon_default.png",
+        "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.4.1/res/drawable-ldpi-v4/mapbox_info_icon_default.png"
     }
 ]

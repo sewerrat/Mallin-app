@@ -1,5 +1,5 @@
 {
-  "name": "myMap",
+  "name": "mallin-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -11,7 +11,8 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "node node_modules/jest/bin/jest.js"
+    "test": "node node_modules/jest/bin/jest.js",
+    "android-linux": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && react-native run-android"
   },
   "jest": {
     "preset": "react-native"
@@ -20,6 +21,10 @@
     "@mapbox/react-native-mapbox-gl": "^6.1.0",
     "native-base": "^2.3.10",
     "react": "16.2.0",
-    "react-native": "0.52.0"
+    "react-native": "0.52.0",
+    "react-native-cli": "^2.0.1",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   }
 }

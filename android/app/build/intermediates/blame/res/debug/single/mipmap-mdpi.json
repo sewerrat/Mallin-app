@@ -1,10 +1,14 @@
 [
     {
-        "merged": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/rat/work-space/Mallin-app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "G:\\ADS\\react-native\\myMap\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
