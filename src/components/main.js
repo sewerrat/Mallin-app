@@ -6,13 +6,15 @@ import AppFooter from 'mallin-app/src/containers/Footer';
 import Home from 'mallin-app/src/containers/Home';
 import Floors from 'mallin-app/src/containers/Floors';
 
+import AppWithNavigationState from 'mallin-app/src/navigation';
+
 export default class Main extends Component {
   render() {
     return (
       <Container>
         <AppHeader />
         <Content padder>
-          <Floors />
+        <AppWithNavigationState />
         </Content>
         <AppFooter />
       </Container>
