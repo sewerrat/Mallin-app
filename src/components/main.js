@@ -7,13 +7,6 @@ import Home from 'mallin-app/src/containers/Home';
 import Floors from 'mallin-app/src/containers/Floors';
 
 export default class Main extends Component {
-  constructor(props) {
-		super(props);
-		this.props.loadFloors({
-			floor: 1,
-			styleURL: mapConst.defaultStyle
-		});
-	}
   render() {
     return (
       <Container>

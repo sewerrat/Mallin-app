@@ -3,6 +3,7 @@ import Footer from 'mallin-app/src/components/Footer';
 import { connect } from 'react-redux';
 
 import { loadFloors } from 'mallin-app/src/modules/floor';
+import { onFloorChanged } from 'mallin-app/src/modules/map';
 
 export default connect(
   ({floor}) => ({
@@ -11,5 +12,9 @@ export default connect(
   dispatch => ({
     loadFloors(query) {
     dispatch(loadFloors(query));
-  }
-}))(Footer);
+    },
+    onFloorChanged(query) {
+      dispatch(onFloorChanged(query));
+    }
+  })
+)(Footer);

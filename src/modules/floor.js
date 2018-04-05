@@ -11,12 +11,12 @@ export const floor_load_error = error => ({type: FLOOR_LOAD_ERROR, error});
 
 export const loadFloors = function(query) {
 	return function(dispatch, getState) {
-		dispatch({ type: 'FLOOR_LOADING' });
+		dispatch(floor_loading());
 		try {
 			var floors = FloorService.loadFloors(query);
-			dispatch({ type: 'FLOOR_LOADED', floors });
+			dispatch(floor_loaded(floors));
 		} catch (error) {
-			dispatch({ type: 'FLOOR_LOAD_ERROR', error });
+			dispatch(floor_load_error(error));
 			console.log('error');
 			console.log(error);
 		}
@@ -38,7 +38,7 @@ export default (
 		}
 			
     case FLOOR_LOADED:{
-      const floors = action.floors;
+			const floors = action.floors;
       return {
 				...state,
 				floors,

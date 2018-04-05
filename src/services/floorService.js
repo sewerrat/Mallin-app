@@ -14,7 +14,8 @@ export default {
 				id:3,
 				name:'3'
 			},
-    ];
+		];
+		
     return response;
   }
 };
