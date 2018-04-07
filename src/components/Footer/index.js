@@ -10,12 +10,14 @@ export default class AppFooter extends Component {
   }
   renderButtons() {
     if (this.props.floors) {
-      return this.props.floors.map(floor => (
+      /*return this.props.floors.map(floor => (
         <Button vertical onPress={() =>this.onFloorChanged(floor.id)}>
           <Text>{floor.name}</Text>
         </Button>
-      ))
+      ))*/
+      return null;  
     }
+
     return null;
   }
   render() {

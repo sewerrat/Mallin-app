@@ -12,12 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1b419b97005002fd35cefc0eb31e21f3696898a5.jar" />
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,15 +27,6 @@
         revision="26.0.1"
         sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
         <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_da688ccf2ffa88e7da4a698a4a3952b7cf3be5dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-geojson/2.2.9/c53f47c9fdf762ae6fd86efd056da7a1651a0fed/mapbox-java-geojson-2.2.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c53f47c9fdf762ae6fd86efd056da7a1651a0fed">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/mapbox-java-geojson-2.2.9_f252c2842aca51f5fbe7f70cc62b164e1fa80eee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,48 +57,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e87c180e777bfbf9ca9aa000556f80dc7301f768.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_c3f3c35752bb8783b163f171205fc8bad97936f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/gson-2.8.0_5393e7dbc68090c2dfe257c15b2d5507fdc3b625.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_53d8431559aacfb3e4a558d25f50152dad83f74d.jar" />
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_fd07a34dc43844732b21898b1bbd236daaa86a0a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fa87b3edba62f4be45a1e598b53005b9db9cf94c.jar" />
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.9.1_f8e61cf00e35659781eb8b84e321fe2fa07974c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,30 +102,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/2.2.9/32099854fcd364940c562d83c1394aa917faa79b/mapbox-java-services-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="32099854fcd364940c562d83c1394aa917faa79b">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/mapbox-java-services-2.2.9_7838938443b0c56142bd6fc363d691873eabedb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
         <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_d8cf9266c69a5874d86dae72bc342d9f0b6d1674.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_b7e55be060391087c5071922808b463687413fc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_81e0fa096dce658c4005a734932cd58025b12a59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,6 +138,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-geojson/2.2.9/c53f47c9fdf762ae6fd86efd056da7a1651a0fed/mapbox-java-geojson-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c53f47c9fdf762ae6fd86efd056da7a1651a0fed">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/mapbox-java-geojson-2.2.9_100f951106ba311200e8f546b24ee187449dfb4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -183,21 +156,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-core/2.2.9/c18aa432e1830aba56d861494f131a34a0b8ce69/mapbox-java-core-2.2.9.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_583f52ee4b0b21037c1c0644584b22220d6fe36f.jar" />
+        sha1="c18aa432e1830aba56d861494f131a34a0b8ce69">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.2.9_87c07cf144ede19a9dbaeebf416267e5714712d0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.9.1_ec9c1aaab10d5a52229880ecd674d3e0839ca748.jar" />
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/gson-2.8.0_5dd11c586126d0030cfe8a13fc8490b88e1279c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_e6f9b6f4cd79cd9562732e20187eecf6c4e6cc03.jar" />
     </item>
     <item
         is-multidex="false"
@@ -207,6 +189,15 @@
         revision="26.0.1"
         sha1="9adc627fc283339f926c4e10d82a42bc39e0d77f">
         <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-services-2.2.9_376d577e7937ab981409268ee79765e1cdf9bbca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,6 +219,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_684ad8278c003aba197bb40f3bc336959cf3b488.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -246,30 +246,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_9fc00c5efac20f053af910e04493d5ad99535492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
         <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_1de9b2cb398aa220c47eed4a66af306003aec606.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-core/2.2.9/c18aa432e1830aba56d861494f131a34a0b8ce69/mapbox-java-core-2.2.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c18aa432e1830aba56d861494f131a34a0b8ce69">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.2.9_9041db30bc89ac19871b8dfdc85cd93234a06669.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a09926806199499a20b2f5168779499abfa33342">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_3a424a40ececb6e7a3aac19573eeb0a10a454f0f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -291,12 +291,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9acd00f8684b999f23bc1219658cc93a0b271f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/myMap/mapbox-react-native-mapbox-gl/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="e3fa39b52aefd2aa95b0908a5c162ef82353792a">
         <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/myMap-mapbox-react-native-mapbox-gl-unspecified_d3b5ae2545b62911ae4edae5659904aea716a8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
     </item>
     <item
         is-multidex="false"
@@ -309,12 +327,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_e1e1bd59e5df501b969e8aa9814ca9e51c8f2d6b.jar" />
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_c0c0b7d1b3d79c8f2006840748d18aeb21bad471.jar" />
     </item>
     <item
         is-multidex="false"
@@ -345,12 +363,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/2.2.9/32099854fcd364940c562d83c1394aa917faa79b/mapbox-java-services-2.2.9.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="32099854fcd364940c562d83c1394aa917faa79b">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/mapbox-java-services-2.2.9_373d977ea8bd47dda9b11f0dd16f88978b80c5e5.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
     </item>
     <item
         is-multidex="false"
@@ -360,24 +378,6 @@
         revision="26.0.1"
         sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
         <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_539dfc1244d32007cf47f41720fbd08ae2e19a58.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_12c697296ae15ff0b38368af8cb8b1fb210f17ab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rat/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1e9843679385f3ee48216578f7d9fb7d9cc2305b.jar" />
     </item>
 
 </items>

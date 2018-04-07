@@ -9,6 +9,8 @@ import { createStore, applyMiddleware } from 'redux';
 import allReducer from 'mallin-app/src/modules';
 import { middleware } from 'mallin-app/src/utils/redux';
 
+import AppWithNavigationState from 'mallin-app/src/navigation';
+
 const store = createStore(allReducer, applyMiddleware(thunk, middleware));
 
 export default class App extends React.Component {
@@ -16,7 +18,7 @@ export default class App extends React.Component {
   render() {
     return (
       <Provider store={store}>
-        <Main />
+        <AppWithNavigationState />
       </Provider>
     )
   }

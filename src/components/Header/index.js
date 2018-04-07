@@ -5,12 +5,14 @@ export default class AppHeader extends Component {
     return (
         <Header>
           <Left>
-            <Button transparent>
-              <Icon name='menu' />
+            <Button
+              transparent
+              onPress={() => this.props.navigation.navigate("DrawerOpen")}>
+              <Icon name="menu" />
             </Button>
           </Left>
           <Body>
-            <Title>Header</Title>
+            <Title>{this.props.screenName}</Title>
           </Body>
           <Right />
         </Header>

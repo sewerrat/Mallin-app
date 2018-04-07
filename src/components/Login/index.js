@@ -1,14 +1,39 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-import { common } from 'mallin-app/src/styles';
+import { View } from 'react-native';
+import { Container, Item, Input, Header, Body, Content, Title, Button, Text, Form } from 'native-base';
+import { Field,reduxForm } from 'redux-form';
 
-export default class Login extends Component {
-	render() {
-		
-		return (
-			<View style={common.container}>
-					<Text>Login</Text>
+import { common } from 'mallin-app/src/styles';
+import Main from 'mallin-app/src/components/main';
+import validate from './validate';
+
+class Login extends Component {
+	constructor(props){
+    super(props);
+  }
+  render(){
+    return (
+      <View>
+				<Form>
+					<Item>
+						<Input placeholder="Username" />
+					</Item>
+					<Item last>
+						<Input type="password" placeholder="Password" />
+					</Item>
+				</Form>
 			</View>
-		);
+    )
+  }
+}
+
+const abc = reduxForm({
+	form: 'test',
+	validate
+})(Login);
+
+export default class LoginScreen extends Component{
+	render() {
+	return <Main navigation={this.props.navigation} content={<Login />} />
 	}
 }
