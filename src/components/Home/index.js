@@ -5,7 +5,6 @@ import {
 	List, ListItem, Thumbnail
 } from "native-base";
 
-import Main from 'mallin-app/src/components/main';
 import MainFrame from "../MainFrame";
 
 export default class HomeScreen extends MainFrame {
@@ -20,7 +19,7 @@ export default class HomeScreen extends MainFrame {
 		return (
 			<List>
 				{this.props.floors.map(floor => (
-					<ListItem>
+					<ListItem onPress={() => this.props.navigation.navigate("Chat")}>
 						<Thumbnail square size={80} source={{ uri: 'http://192.168.1.16:3000/user/abc.png' }} />
 						<Body>
 							<Text>{floor.floorID}</Text>
@@ -43,16 +42,6 @@ export default class HomeScreen extends MainFrame {
 						</CardItem>
 					</Card>
 					{this.renderList()}
-					<Button full rounded dark
-						style={{ marginTop: 10 }}
-						onPress={() => this.props.navigation.navigate("Chat")}>
-						<Text>Chat With People</Text>
-					</Button>
-					<Button full rounded primary
-						style={{ marginTop: 10 }}
-						onPress={() => this.props.navigation.navigate("Profile")}>
-						<Text>Goto Profiles</Text>
-					</Button>
 				</Content>
 			</React.Fragment>
 		)

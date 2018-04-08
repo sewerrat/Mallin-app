@@ -1,7 +1,7 @@
 import React from "react";
 import { AppRegistry, Image, StatusBar } from "react-native";
 import { Container, Content, Text, List, ListItem } from "native-base";
-import routes from './routes';
+import router from "./router";
 //const routes = ["Home", "Login", "ShowMap"];
 export default class SideBar extends React.Component {
   render() {
@@ -19,7 +19,7 @@ export default class SideBar extends React.Component {
               alignItems: "center"
             }}/>
           <List
-            dataArray={routes}
+            dataArray={routes.filter(route => (route.showInMenu))}
             renderRow={data => {
               return (
                 <ListItem
