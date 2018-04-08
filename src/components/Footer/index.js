@@ -3,11 +3,8 @@ import { Container, Header, Content, Footer, FooterTab, Button, Text } from 'nat
 export default class AppFooter extends Component {
   constructor(props) {
     super(props);
-    props.loadFloors({});
   }
-  onFloorChanged(floor) {
-    this.props.onFloorChanged(floor);
-  }
+ 
   renderButtons() {
     if (this.props.floors) {
       /*return this.props.floors.map(floor => (

@@ -10,7 +10,7 @@ import MainFrame from "../MainFrame";
 export default class HomeScreen extends MainFrame {
 	constructor(props) {
 		super(props);
-		this.props.loadFloors();
+		this.props.loadBuilding();
 	}
 	renderList() {
 		if(!this.props.floors) {
