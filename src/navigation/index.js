@@ -4,6 +4,18 @@ import ShowMap from 'mallin-app/src/containers/ShowMap';
 import Home from 'mallin-app/src/containers/Home';
 import SideBar from "./sidebar";
 import { DrawerNavigator } from "react-navigation";
+import routes from './routes';
+
+const GenerateNavigationProps = () => {
+  return routes.reduce(
+    props,route => (
+      props[route.name] = {
+        screen: route.screen
+      }
+    )
+  );
+};
+
 const HomeScreenRouter = DrawerNavigator(
   {
     Home: { screen: Home },

@@ -6,8 +6,9 @@ import {
 } from "native-base";
 
 import Main from 'mallin-app/src/components/main';
+import MainFrame from "../MainFrame";
 
-export default class HomeScreen extends React.Component {
+export default class HomeScreen extends MainFrame {
 	constructor(props) {
 		super(props);
 		this.props.loadFloors();
@@ -56,10 +57,4 @@ export default class HomeScreen extends React.Component {
 			</React.Fragment>
 		)
 	}
-
-  render() {
-    return (
-      <Main navigation={this.props.navigation} content={this.renderContent()} />
-    );
-  }
 }

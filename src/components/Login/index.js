@@ -4,14 +4,11 @@ import { Container, Item, Input, Header, Body, Content, Title, Button, Text, For
 import { Field,reduxForm } from 'redux-form';
 
 import { common } from 'mallin-app/src/styles';
-import Main from 'mallin-app/src/components/main';
 import validate from './validate';
+import MainFrame from '../MainFrame';
 
-class Login extends Component {
-	constructor(props){
-    super(props);
-  }
-  render(){
+export default class LoginScreen extends MainFrame{
+	renderContent(){
     return (
       <View>
 				<Form>
@@ -24,16 +21,6 @@ class Login extends Component {
 				</Form>
 			</View>
     )
-  }
-}
-
-const abc = reduxForm({
-	form: 'test',
-	validate
-})(Login);
-
-export default class LoginScreen extends Component{
-	render() {
-	return <Main navigation={this.props.navigation} content={<Login />} />
 	}
+	
 }

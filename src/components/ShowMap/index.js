@@ -5,8 +5,9 @@ import MapboxGL from '@mapbox/react-native-mapbox-gl';
 import mapConst from 'mallin-app/src/const/mapConst';
 import Resource from './resource';
 import { common, map } from 'mallin-app/src/styles';
+import MainFrame from '../MainFrame';
 
-export default class MapView extends Component {
+export default class ShowMap extends MainFrame {
 	constructor(props) {
 		super(props);
 		this.props.changeMap({
@@ -26,9 +27,9 @@ export default class MapView extends Component {
 		return <Resource floorID={this.props.floorID} floors={this.props.floors}/>
 	}
 
-	render() {
+	renderContent() {
 		if (this.props.isAndroidPermissionGranted) { 
-			return(
+			return (
 			<View style={map.havePermission}>
 				<Text>{this.props.floorID}</Text>
 				<MapboxGL.MapView
@@ -45,6 +46,5 @@ export default class MapView extends Component {
 					<Text>Location, plzzz</Text>
 			</View>
 		);
-		
 	}
 }

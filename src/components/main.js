@@ -13,7 +13,7 @@ export default class Main extends Component {
       <Container>
         <AppHeader navigation={this.props.navigation}/>
         <Content padder>
-          {this.props.content}
+          {this.props.children}
         </Content>
         <AppFooter />
       </Container>
