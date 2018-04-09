@@ -6,16 +6,19 @@ export default class Floors extends Component {
   
   constructor(props) {
 		super(props);
-		this.props.loadBuilding();
+		this.props.loadFloors({
+      buildingID: this.props.buildingID
+    });
 	}
   
   onValueChange2(value) {
     this.props.chooseFloor(value);
+    this.props.navigation.goBack();
   }
 
   renderListFloors() {
     return this.props.floors.map( floor => (
-      <Item label={floor.name} value={floor.floorID} />
+      <Item key={`floors-list${floor.floorID}`} label={floor.name} value={floor._id} />
     ));
   }
 
@@ -29,7 +32,7 @@ export default class Floors extends Component {
             </Button>
           </Left>
           <Body>
-            <Title>Placeholder Picker</Title>
+            <Title>List floors</Title>
           </Body>
           <Right />
         </Header>

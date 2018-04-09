@@ -6,15 +6,6 @@ import { loadFloors } from 'mallin-app/src/modules/floor';
 import { onFloorChanged } from 'mallin-app/src/modules/map';
 
 export default connect(
-  ({floor}) => ({
-    floors: floor.floors
-  }), 
-  dispatch => ({
-    loadFloors(query) {
-    dispatch(loadFloors(query));
-    },
-    onFloorChanged(query) {
-      dispatch(onFloorChanged(query));
-    }
-  })
+  null, 
+  null
 )(Footer);

@@ -25,14 +25,14 @@ export default {
 		} catch (ex) {
 			console.log(ex);	
 		}
-    return responseTest;
+    	return responseTest;
 	},
 	find: async (id) => {
 		const responseTest = {
 			id:1,
 			name:'building 1',
 			floors:[]
-		},;
+		};
 				
 		try {
 			const response = await axios.get(`${apiConst.url}/building/test`);	

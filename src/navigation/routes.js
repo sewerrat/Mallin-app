@@ -6,21 +6,25 @@ import FloorScreen from "mallin-app/src/containers/Floors";
 export default [
     {
         name: "Home",
+        title: "Home",
         screen: HomeScreen,
         showInMenu: true
     },
     {
         name: "Login",
+        title: "Login",
         screen: LoginScreen,
         showInMenu: true
     },
     { 
         name: "ShowMap",
+        title: "Home",
         screen: ShowMap,
-        showInMenu: true
+        showInMenu: false
     },
     { 
         name: "Floors",
+        title: "Floors",
         screen: FloorScreen,
         showInMenu: false
     }

@@ -2,7 +2,7 @@ import { combineReducers } from 'redux';
 
 import map from './map';
 import floor from './floor';
-import nav from './navigation';
+//import nav from './navigation';
 import building from './building'
 //import form from './form';
 
@@ -10,6 +10,5 @@ import building from './building'
 export default combineReducers({
   map,
   floor,
-  nav,
   building
 })

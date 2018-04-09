@@ -17,10 +17,12 @@ export default {
 			},
 		];
 		try {
-			const buildingId = query.buildingId;
-			const response = await axios.get(`${apiConst.url}/floors/detail/${buildingId}`);	
-			const responseData = response.data.floors;
-			return responseData;
+			const buildingID = query.buildingID;
+			const response = await axios.get(`${apiConst.url}/building/detail/${buildingID}`);
+			if (response.data) {
+				 return response.data.floors;
+			}
+			
 		} catch (ex) {
 			console.log(ex);	
 		}

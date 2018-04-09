@@ -3,6 +3,7 @@ import MapboxGL from '@mapbox/react-native-mapbox-gl';
 import {getFloorMapUrl} from 'mallin-app/src/utils/mapUtils';
 
 export default class Resource extends Component {
+  
   renderResource() {
     if(!this.props.floors) {
       return null;
@@ -15,7 +16,6 @@ export default class Resource extends Component {
         <MapboxGL.RasterSource
           key={this.props.floorID}
           id='test'
-          tileSize={256}
           tms={true}
           url={getFloorMapUrl(this.props.floorID)}>
           <MapboxGL.RasterLayer id='testLayer' sourceID='test'/>

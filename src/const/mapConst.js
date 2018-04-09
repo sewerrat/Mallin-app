@@ -1,4 +1,5 @@
+import apiConst from 'mallin-app/src/const/api';
 export default {
-    url: 'http://192.168.1.16:3000/user/abc.png?{x}&{y}&{z}',
+    url: `${apiConst.url}/floors/map_layer/{floorId}/{z}/{x}/{y}`,
     defaultStyle: 'mapbox://styles/mapbox/satellite-v9'
 }

@@ -6,7 +6,7 @@ import {changeGrant, changeMap} from 'mallin-app/src/modules/map';
 
 export default connect(
 	({map, floor}) => ({
-		floorID: map.floorID,
+		floorID: floor.floorID,
 		styleURL: map.styleURL,
 		floors: floor.floors,
 		isAndroidPermissionGranted: map.isAndroidPermissionGranted

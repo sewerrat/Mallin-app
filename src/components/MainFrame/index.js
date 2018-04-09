@@ -14,7 +14,7 @@ export default class MainFrame extends Component{
 	render() {
 		return (
 			<Main navigation={this.props.navigation}>
-        {this.renderContent()}
+        		{this.renderContent()}
 			</Main>
 		)
 	}

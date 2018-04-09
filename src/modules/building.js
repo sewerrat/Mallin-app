@@ -1,6 +1,7 @@
 
 import {BuildingService} from 'mallin-app/src/services';
 import {loadFloors} from 'mallin-app/src/modules/floor';
+import { NavigationActions } from 'react-navigation';
 
 export const BUILDING_LOADING = 'mallin-app/map/BUILDING_LOADING';
 export const BUILDING_LOADED = 'mallin-app/map/BUILDING_LOADED';
@@ -11,7 +12,7 @@ export const building_loading = () => ({ type: BUILDING_LOADING});
 export const building_loaded = buildings => ({type: BUILDING_LOADED, buildings});
 export const building_load_error = error => ({type: BUILDING_LOAD_ERROR, error});
 
-export const builđing_choosen = (id) => ({type: BUILDING_CHOOSEN}, id); 
+export const builđing_choosen = (id) => ({type: BUILDING_CHOOSEN, id}); 
 
 export const loadBuildings = function(query) {
 	return async function(dispatch, getState) {
@@ -28,9 +29,10 @@ export const loadBuildings = function(query) {
 };
 
 export const chooseBuilding = function(id) {
-	return async function(dispatch, getState) {
+	return function(dispatch, getState) {
+		dispatch(builđing_choosen(id));
 		try {
-			dispatch
+			
 		} catch (error) {
 			console.log('error');
 			console.log(error);

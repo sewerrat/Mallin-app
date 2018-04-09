@@ -1,8 +1,8 @@
 import { StyleSheet } from 'react-native';
 export default map = StyleSheet.create({
 	map: {
-		width: 200,
-		height:200
+		width: 300,
+		height:300
 	},
 	havePermission: {
 			flex: 1,

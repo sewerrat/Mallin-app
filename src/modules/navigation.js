@@ -3,9 +3,9 @@ import { NavigationActions } from 'react-navigation';
 import AppNavigator from 'mallin-app/src/navigation';
 
 // Start with two routes: The Main screen, with the Login screen on top.
-const firstAction = AppNavigator.router.getActionForPathAndParams('ShowMap');
+const firstAction = AppNavigator.router.getActionForPathAndParams('Home');
 const tempNavState = AppNavigator.router.getStateForAction(firstAction);
-const secondAction = AppNavigator.router.getActionForPathAndParams('Login');
+const secondAction = AppNavigator.router.getActionForPathAndParams('Floor');
 const initialNavState = AppNavigator.router.getStateForAction(
   secondAction,
   tempNavState
