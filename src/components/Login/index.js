@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
 import { Container, Item, Input, Header, Body, Content, Title, Button, Text, Form } from 'native-base';
-import { Field,reduxForm } from 'redux-form';
+//import { Field,reduxForm } from 'redux-form';
 
 import { common } from 'mallin-app/src/styles';
 import validate from './validate';

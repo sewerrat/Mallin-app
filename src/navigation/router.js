@@ -1,7 +1,7 @@
 import HomeScreen from "../components/Home";
 import LoginScreen from "../components/Login";
 import ShowMap from "../components/ShowMap";
-import FloorScreen from "mallin-app/src/components/Home/floor";
+import FloorScreen from "mallin-app/src/components/Floors";
 
 export default ([
     {

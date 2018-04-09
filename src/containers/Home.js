@@ -11,6 +11,9 @@ export default connect(
   dispatch => ({
     loadBuildings(query) {
     dispatch(loadBuildings(query));
+    },
+    chooseBuilding(value) {
+      dispatch(chooseBuilding(value));
     }
   })
 )(Home);

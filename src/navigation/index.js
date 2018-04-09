@@ -8,24 +8,19 @@ import { DrawerNavigator } from "react-navigation";
 import routes from './routes';
 
 const GenerateNavigationProps = () => {
-  return routes.reduce(
-    props,route => (
-      props[route.name] = {
-        screen: route.screen
-      }
-    )
-  );
+  var navs = {};
+  routes.forEach(route => {
+    navs[route.name] = {
+      screen: route.screen
+    };
+  });
+  return navs;
 };
 
-const HomeScreenRouter = DrawerNavigator(
-  {
-    Home: { screen: Home },
-    Floor: {screen: FloorScreen},
-    ShowMap: { screen: ShowMap },
-    Login: { screen: Login }
-  },
+const MainRouter = DrawerNavigator(
+  GenerateNavigationProps(),
   {
     contentComponent: props => <SideBar {...props} />
   }
 );
-export default HomeScreenRouter;
+export default MainRouter;

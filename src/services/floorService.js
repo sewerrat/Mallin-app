@@ -1,7 +1,7 @@
 import axios from 'axios';
 import apiConst from 'mallin-app/src/const/api';
 export default {
-  loadFloors: async (query) => {
+  load: async (query) => {
     const responseTest = [
 			{
 				id:1,
@@ -18,12 +18,13 @@ export default {
 		];
 		try {
 			const buildingId = query.buildingId;
-			const response = await axios.get('${apiConst.url}/floors/detail/${buildingId}');	
+			const response = await axios.get(`${apiConst.url}/floors/detail/${buildingId}`);	
 			const responseData = response.data.floors;
 			return responseData;
 		} catch (ex) {
 			console.log(ex);	
 		}
     return responseTest;
-  }
+	}
+	
 };

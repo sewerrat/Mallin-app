@@ -10,20 +10,20 @@ import MainFrame from "../MainFrame";
 export default class HomeScreen extends MainFrame {
 	constructor(props) {
 		super(props);
-		this.props.loadBuilding();
+		this.props.loadBuildings();
 	}
 	renderList() {
-		if(!this.props.floors) {
+		if(!this.props.buildings) {
 			return null;
 		}
 		return (
 			<List>
-				{this.props.floors.map(floor => (
-					<ListItem onPress={() => this.props.navigation.navigate("Chat")}>
+				{this.props.buildings.map(building => (
+					<ListItem onPress={() => this.props.chooseBuilding(building.id)}>
 						<Thumbnail square size={80} source={{ uri: 'http://192.168.1.16:3000/user/abc.png' }} />
 						<Body>
-							<Text>{floor.floorID}</Text>
-							<Text note>Floor {floor.floorID}</Text>
+							<Text>{building.id}</Text>
+							<Text note>{building.name}</Text>
 						</Body>
 					</ListItem>		
 				))}
@@ -37,7 +37,7 @@ export default class HomeScreen extends MainFrame {
 					<Card>
 						<CardItem>
 							<Body>
-								<Text>List floors</Text>
+								<Text>List buildings</Text>
 							</Body>
 						</CardItem>
 					</Card>
