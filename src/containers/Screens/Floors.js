@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Floors from 'mallin-app/src/components/Floors';
+import Floors from 'mallin-app/src/components/Screens/Floors';
 import { connect } from 'react-redux';
 
 import { loadFloors } from 'mallin-app/src/modules/floor';
@@ -7,15 +7,11 @@ import { chooseFloor } from 'mallin-app/src/modules/floor';
 
 export default connect(
   ({floor, building}) => ({
-    buildingID: building.buildingID,
-    floors: floor.floors
+    currentBuilding: building.currentBuilding
   }), 
   dispatch => ({
-    loadFloors(query) {
-    dispatch(loadFloors(query));
-	},
-	chooseFloor(value) {
-		dispatch(chooseFloor(value));
-	}
+    chooseFloor(value) {
+      dispatch(chooseFloor(value));
+    }
   })
 )(Floors);

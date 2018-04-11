@@ -16,10 +16,10 @@ export const floor_choosen = id => ({type: FLOOR_CHOOSEN, id});
 export const loadFloors = function(query) {
 	return async function(dispatch, getState) {
 		dispatch(floor_loading());
-		var floors = await FloorService.load(query);
-		dispatch(floor_loaded(floors));
+		
 		try {
-			
+			var floors = await FloorService.load(query);
+			dispatch(floor_loaded(floors));	
 		} catch (error) {
 			dispatch(floor_load_error(error));
 			console.log('error');

@@ -1,7 +1,8 @@
-import HomeScreen from "mallin-app/src/containers/Home";
-import LoginScreen from "mallin-app/src/containers/Login";
+import HomeScreen from "mallin-app/src/containers/Screens/Home";
+import LoginScreen from "mallin-app/src/containers/Screens/Login";
+import FloorScreen from "mallin-app/src/containers/Screens/Floors";
+
 import ShowMap from "mallin-app/src/containers/ShowMap";
-import FloorScreen from "mallin-app/src/containers/Floors";
 
 export default [
     {

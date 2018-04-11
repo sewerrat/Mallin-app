@@ -2,23 +2,9 @@ import axios from 'axios';
 import apiConst from 'mallin-app/src/const/api';
 export default {
   load: async (query) => {
-    const responseTest = [
-			{
-				id:1,
-				name:'1'
-			},
-			{
-				id:2,
-				name:'2'
-			},
-			{
-				id:3,
-				name:'3'
-			},
-		];
 		try {
 			const buildingID = query.buildingID;
-			const response = await axios.get(`${apiConst.url}/building/detail/${buildingID}`);
+			const response = await axios.get(`${apiConst.url}api/building/detail/${buildingID}`);
 			if (response.data) {
 				 return response.data.floors;
 			}
@@ -26,7 +12,19 @@ export default {
 		} catch (ex) {
 			console.log(ex);	
 		}
-    return responseTest;
+    return [];
+	},
+
+	findByAtlas: async (atlasId) => {
+		try {	
+			const response = await axios.get(`${apiConst.url}app/location/find_floor/${atlasId}`);
+			if (response.floors) {
+				return response.floors;
+			}
+		} catch (ex) {
+			console.log(ex);
+		}
+		return null;
 	}
 	
 };

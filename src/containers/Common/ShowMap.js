@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
-import ShowMap from 'mallin-app/src/components/ShowMap';
+import ShowMap from 'mallin-app/src/components/Common/ShowMap';
 import { connect } from 'react-redux';
 
 import {changeGrant, changeMap} from 'mallin-app/src/modules/map';
 
 export default connect(
-	({map, floor}) => ({
-		floorID: floor.floorID,
+	({location, map}) => ({
+		currentFloor: location.currentFloor,
+		currentArea: location.currentArea,
+		currentBuilding: location.currentBuilding,
+		location: location.location,
 		styleURL: map.styleURL,
 		floors: floor.floors,
 		isAndroidPermissionGranted: map.isAndroidPermissionGranted

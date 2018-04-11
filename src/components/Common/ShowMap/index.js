@@ -9,21 +9,10 @@ import { common, map } from 'mallin-app/src/styles';
 export default class ShowMap extends Component {
 	constructor(props) {
 		super(props);
-		/*this.props.changeMap({
-			floorID: 1,
-			styleURL: mapConst.defaultStyle
-		});*/
-	}
-
-	async componentWillMount() {
-		const isGranted = await MapboxGL.requestAndroidLocationPermissions();
-		this.props.changeGrant({
-			isAndroidPermissionGranted: isGranted
-		});
 	}
 
 	renderResource() {
-		return <Resource floorID={this.props.floorID} floors={this.props.floors}/>
+		return <Resource floorID={this.props.currentFloors._id} floors={this.props.floors}/>
 	}
 
 	render() {
@@ -34,6 +23,7 @@ export default class ShowMap extends Component {
 				<MapboxGL.MapView
 					showUserLocation={true}
 					userTrackingMode={MapboxGL.UserTrackingModes.Follow}
+					centerCoordinate={[this.props.location.long, this.props.location.lat]}
 					styleURL={this.props.styleURL}
 					style={map.map}>
 					{this.renderResource()}

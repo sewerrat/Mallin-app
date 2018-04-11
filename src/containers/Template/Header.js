@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Header from 'mallin-app/src/components/Header';
+import Header from 'mallin-app/src/components/Template/Header';
 import { connect } from 'react-redux';
 
 import { loadFloors } from 'mallin-app/src/modules/floor';

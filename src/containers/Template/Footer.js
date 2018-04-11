@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Footer from 'mallin-app/src/components/Footer';
+import Footer from 'mallin-app/src/components/Template/Footer';
 import { connect } from 'react-redux';
 
 import { loadFloors } from 'mallin-app/src/modules/floor';

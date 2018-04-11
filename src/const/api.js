@@ -1,3 +1,3 @@
 export default {
-    url: 'http://mallin-backend.herokuapp.com/api'
+    url: 'http://mallin-backend.herokuapp.com/'
 }

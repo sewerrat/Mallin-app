@@ -6,9 +6,6 @@ export default class Floors extends Component {
   
   constructor(props) {
 		super(props);
-		this.props.loadFloors({
-      buildingID: this.props.buildingID
-    });
 	}
   
   onValueChange2(value) {

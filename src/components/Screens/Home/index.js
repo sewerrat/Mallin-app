@@ -5,8 +5,8 @@ import {
 	List, ListItem, Thumbnail
 } from "native-base";
 
-import MainFrame from "../MainFrame";
-import ShowMap from 'mallin-app/src/containers/ShowMap';
+import MainFrame from "mallin-app/src/components/Template/MainFrame";
+import ShowMap from 'mallin-app/src/containers/Common/ShowMap';
 
 export default class HomeScreen extends MainFrame {
 	
@@ -15,46 +15,10 @@ export default class HomeScreen extends MainFrame {
 		this.props.loadBuildings();
 	}
 
-	chooseBuilding(id) {
-		this.props.chooseBuilding(id);
-		this.props.navigation.navigate('Floors');
-	}
-
-	renderList() {
-		if(!this.props.buildings) {
-			return null;
-		}
-		return (
-			<List>
-				{this.props.buildings.map(building => (
-					<ListItem 
-						key={`building-list-${building._id}`} 
-						onPress={() => this.chooseBuilding(building._id)}
-						icon>
-						 <Left>
-							<Icon name="home" />
-						</Left>
-						<Body>
-							<Text>{building._id}</Text>
-							<Text note>{building.name}</Text>
-						</Body>
-					</ListItem>		
-				))}
-			</List>
-		)
-	}
 	renderContent() {
 		return (
 			<React.Fragment>
 				<Content padder>
-					<Card>
-						<CardItem>
-							<Body>
-								<Text>List buildings</Text>
-							</Body>
-						</CardItem>
-					</Card>
-					{this.renderList()}
 					<ShowMap />
 				</Content>
 			</React.Fragment>
