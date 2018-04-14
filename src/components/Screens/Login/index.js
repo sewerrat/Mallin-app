@@ -5,7 +5,7 @@ import { Container, Item, Input, Header, Body, Content, Title, Button, Text, For
 
 import { common } from 'mallin-app/src/styles';
 import validate from './validate';
-import MainFrame from '../MainFrame';
+import MainFrame from 'mallin-app/src/components/Template/MainFrame';
 
 export default class LoginScreen extends MainFrame{
 	renderContent(){

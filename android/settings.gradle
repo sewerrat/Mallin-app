@@ -1,4 +1,6 @@
 rootProject.name = 'myMap'
+include ':react-native-indoor-manager'
+project(':react-native-indoor-manager').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-indoor-manager/android')
 
 include ':app'
 include ':mapbox-react-native-mapbox-gl'

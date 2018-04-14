@@ -7,6 +7,7 @@ export const setLocation = location => ({
   },
 });
 
+//area
 export const setCurrentArea = area => ({
   type: types.SET_CURRENT_AREA,
   payload: {
@@ -14,6 +15,7 @@ export const setCurrentArea = area => ({
   },
 });
 
+//building
 export const building_loading = () => ({ 
   type: types.BUILDING_LOADING
 });
@@ -28,7 +30,7 @@ export const building_load_error = error => ({
   error
 });
 
-
+//floor
 export const floor_loading = () => ({ 
   type: FLOOR_LOADING
 });

@@ -2,7 +2,7 @@ import HomeScreen from "mallin-app/src/containers/Screens/Home";
 import LoginScreen from "mallin-app/src/containers/Screens/Login";
 import FloorScreen from "mallin-app/src/containers/Screens/Floors";
 
-import ShowMap from "mallin-app/src/containers/ShowMap";
+//import ShowMap from "mallin-app/src/containers/ShowMap";
 
 export default [
     {
@@ -16,12 +16,6 @@ export default [
         title: "Login",
         screen: LoginScreen,
         showInMenu: true
-    },
-    { 
-        name: "ShowMap",
-        title: "Home",
-        screen: ShowMap,
-        showInMenu: false
     },
     { 
         name: "Floors",

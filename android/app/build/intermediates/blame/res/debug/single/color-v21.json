@@ -4,11 +4,11 @@
         "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color-v21/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v21\\abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v21\\abc_btn_colored_borderless_text_material.xml",
         "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v21\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
     }
 ]

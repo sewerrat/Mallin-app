@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\xml\\preferences.xml"
-    },
-    {
         "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\xml\\preferences.xml"
     },
     {
         "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",

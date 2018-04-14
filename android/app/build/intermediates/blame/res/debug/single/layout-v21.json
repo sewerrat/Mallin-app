@@ -4,24 +4,8 @@
         "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
@@ -32,8 +16,20 @@
         "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
@@ -44,7 +40,11 @@
         "source": "/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_action.xml"
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\dong bat\\Mallin\\Mallin-app\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/home/rat/work-space/Mallin-app/android/G:\\ADS\\react-native\\myMap\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

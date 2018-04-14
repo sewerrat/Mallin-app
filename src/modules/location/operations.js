@@ -22,7 +22,7 @@ export const loadBuildings = function(buildingId) {
 	};
 };
 
-const loadFloor = atlasId => async (dispatch, getState) => {
+export const loadFloor = atlasId => async (dispatch, getState) => {
   const { currentBuilding } = getState().location;
   try {
     const floor = FloorService.findByAtlas(atlasId);
@@ -38,7 +38,7 @@ const loadFloor = atlasId => async (dispatch, getState) => {
   }
 };
 
-const startWatching = () => (dispatch, getState) => {
+export const startWatching = () => (dispatch, getState) => {
 	{
 		const indoorEventEmitter = new NativeEventEmitter(IndoorManager);
 

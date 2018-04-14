@@ -2,7 +2,6 @@ import { NativeEventEmitter } from 'react-native';
 import IndoorManager from 'react-native-indoor-manager';
 
 import mapConst from 'mallin-app/src/const/mapConst';
-import building_detected from 'mallin-app/src/modules/building';
 
 import { GeoStore } from 'terraformer-geostore';
 import { RTree } from 'terraformer-rtree';
@@ -12,17 +11,6 @@ import { chain, map } from 'lodash';
 
 export function getFloorMapUrl(floorID) {
 	return mapConst.url.replace('{floorID}', floorID);
-}
-
-export function initIndoAltasService(store) {
-	// Create a React Native NativeEventEmitter
-	const indoorEventEmitter = new NativeEventEmitter(IndoorManager);
-	// Add listener
-	indoorEventEmitter.addListener('locationChanged', location => {
-		store.dispatch(detectBuilding(location));
-	});
-	// init Indoor Atlas service
-	IndoorManager.initService(API_KEY, API_SECRET);
 }
 
 export const getCurrentAreaByLocation = (floorId, location, areas, callback) => {
@@ -60,5 +48,5 @@ export const getCurrentAreaByLocation = (floorId, location, areas, callback) => 
 		}
 	  });
 	});
-  };
+};
   

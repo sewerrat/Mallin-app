@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
 
-import Main from 'mallin-app/src/components/main';
+import Main from 'mallin-app/src/components/Template/main';
+import Header from 'mallin-app/src/components/Template/Header';
+import Footer from 'mallin-app/src/components/Template/Footer';
+
 
 export default class MainFrame extends Component{
 
@@ -10,10 +13,25 @@ export default class MainFrame extends Component{
 			<View>Comming soon</View>
 		)
 	}
+
+	renderHeader() {
+		return (
+			<AppHeader navigation={this.props.navigation}/>
+		);
+	}
+
+	renderFooter() {
+		return (
+			<AppFooter />
+		);
+	}
 	
 	render() {
 		return (
-			<Main navigation={this.props.navigation}>
+			<Main
+				header={this.renderHeader}
+				footer={this.renderFooter}
+				>
         		{this.renderContent()}
 			</Main>
 		)
