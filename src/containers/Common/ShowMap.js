@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 import {changeGrant, changeMap} from 'mallin-app/src/modules/map';
 
 export default connect(
-	({location, map}) => ({
+	({location, map, floor}) => ({
 		currentFloor: location.currentFloor,
 		currentArea: location.currentArea,
 		currentBuilding: location.currentBuilding,

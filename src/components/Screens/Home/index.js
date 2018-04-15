@@ -4,6 +4,7 @@ import {
 	Container, Header, Title, Left, Icon, Right, Button, Body, Content,Text, Card, CardItem,
 	List, ListItem, Thumbnail
 } from "native-base";
+import Interactable from 'react-native-interactable';
 
 import MainFrame from "mallin-app/src/components/Template/MainFrame";
 import ShowMap from 'mallin-app/src/containers/Common/ShowMap';
@@ -12,7 +13,6 @@ export default class HomeScreen extends MainFrame {
 	
 	constructor(props) {
 		super(props);
-		this.props.loadBuildings();
 	}
 
 	rederDebugInfo () {
@@ -52,6 +52,16 @@ export default class HomeScreen extends MainFrame {
 				<Content padder>
 					<ShowMap />
 					{this.rederDebugInfo}
+					
+
+					<Interactable.View
+					horizontalOnly={true}
+					snapPoints={[{x: 0}, {x: -200}]}
+					onSnap={this.onDrawerSnap}>
+
+						<Text> abc </Text>
+
+					</Interactable.View>
 				</Content>
 			</React.Fragment>
 		)

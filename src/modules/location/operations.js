@@ -1,14 +1,17 @@
 import { NativeEventEmitter } from 'react-native';
 import IndoorManager from 'react-native-indoor-manager';
 
+import mapConst from 'mallin-app/src/const/mapConst';
+
 import {FloorService} from 'mallin-app/src/services';
 import {BuildingService} from 'mallin-app/src/services';
 
 import {getCurrentAreaByLocation} from 'mallin-app/src/utils/mapUtils';
 
 import actions from './actions';
+import { EventEmitter } from 'events';
 
-export const loadBuildings = function(buildingId) {
+const loadBuildings = function(buildingId) {
 	return async function(dispatch, getState) {
 		dispatch(building_loading());
 		try {
@@ -22,7 +25,7 @@ export const loadBuildings = function(buildingId) {
 	};
 };
 
-export const loadFloor = atlasId => async (dispatch, getState) => {
+const loadFloor = atlasId => async (dispatch, getState) => {
   const { currentBuilding } = getState().location;
   try {
     const floor = FloorService.findByAtlas(atlasId);
@@ -38,14 +41,13 @@ export const loadFloor = atlasId => async (dispatch, getState) => {
   }
 };
 
-export const startWatching = () => (dispatch, getState) => {
+const startWatching = () => (dispatch, getState) => {
 	{
-		const indoorEventEmitter = new NativeEventEmitter(IndoorManager);
-
+		//const indoorEventEmitter = new NativeEventEmitter(IndoorManager);
+		const indoorEventEmitter = new EventEmitter();
 		indoorEventEmitter.addListener('locationChanged', (location) => {
 			const { currentFloor, currentBuilding } = getState().location;
 			dispatch(actions.setLocation(location));
-			dispatch(actions.setIsLoading(false));
 			if (!currentFloor || currentFloor.atlasId.indexOf(location.atlasId) === -1) {
 				dispatch(loadFloor(location.atlasId));
 			} else if (currentFloor && currentBuilding) {
@@ -58,7 +60,21 @@ export const startWatching = () => (dispatch, getState) => {
 			}
 		});
 
-		IndoorManager.initService(Config.API_KEY, Config.API_SECRET);
+		//IndoorManager.initService(mapConst.API_KEY, mapConst.API_SECRET);
 		console.log('Service inited');
 	}
 };
+
+const initService = indoorEventEmitter => async (dispatch, getState) => {
+	{
+		const response = await axios.get('https://mallin-record-storage.herokuapp.com/record/5ad2749a6b19c20014b4795a');
+		const responseData = response.data;
+		alert(responseData)
+	}
+};
+
+export default {
+	startWatching,
+	loadFloor,
+	loadBuildings
+}

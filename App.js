@@ -7,10 +7,10 @@ import { createStore, applyMiddleware } from 'redux';
 import allReducer from 'mallin-app/src/modules';
 
 import AppWithState from 'mallin-app/src/navigation';
-import {startWatching} from 'mallin-app/src/modules/location';
+import { operations } from 'mallin-app/src/modules/location';
 
 const store = createStore(allReducer, applyMiddleware(thunk));
-store.dispatch (startWatching());
+//store.dispatch (operations.startWatching());
 
 export default class App extends React.Component {
   

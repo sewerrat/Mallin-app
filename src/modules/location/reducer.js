@@ -1,45 +1,46 @@
+import types from './types';
 
 const initialState = {
-  isLoading: false,
-  location: undefined,
-  currentArea: undefined,
-  currentFloor: undefined,
-  currentBuilding: undefined,
+	isLoading: false,
+	location: undefined,
+	currentArea: undefined,
+	currentFloor: undefined,
+	currentBuilding: undefined,
 };
-export default (state = initialState,action) => {
+export default (state = initialState, action) => {
 	switch (action.type) {
-		case BUILDING_LOADING:{
+		case types.BUILDING_LOADING: {
 			return {
 				...state,
 				buildingLoading: true
 			};
 		}
-						
-		case BUILDING_LOADED:{
-				const currentBuilding = action.payload.currentBuilding;
+
+		case types.BUILDING_LOADED: {
+			const currentBuilding = action.payload.currentBuilding;
 			return {
-					...state,
-					currentBuilding,
-					buildingLoading: false
-				};
-			}
-						
-		case BUILDING_LOAD_ERROR:
+				...state,
+				currentBuilding,
+				buildingLoading: false
+			};
+		}
+
+		case types.BUILDING_LOAD_ERROR:
 			const error = action.error;
 			return {
 				...state,
 				error,
 				buildingLoading: false
 			};
-			
-		case FLOOR_LOADING:{
+
+		case types.FLOOR_LOADING: {
 			return {
 				...state,
 				floorLoading: true
 			};
 		}
-					
-		case FLOOR_LOADED:{
+
+		case types.FLOOR_LOADED: {
 			const currentFloor = action.payload.currentFloor;
 			return {
 				...state,
@@ -47,25 +48,31 @@ export default (state = initialState,action) => {
 				floorLoading: false
 			};
 		}
-				
-		case FLOOR_LOAD_ERROR:
+
+		case types.FLOOR_LOAD_ERROR: {
 			const error = action.error;
 			return {
 				...state,
 				error,
 				floorLoading: false
 			};
+		}
 
-		case types.SET_LOCATION:
+
+		case types.SET_LOCATION: {
 			return {
 				...state,
 				location: action.payload.location,
 			};
-		case types.SET_CURRENT_AREA:
+		}
+
+		case types.SET_CURRENT_AREA: {
 			return {
 				...state,
 				currentArea: action.payload.area,
 			};
+		}
+
 
 		default:
 			return state;

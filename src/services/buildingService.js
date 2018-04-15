@@ -2,24 +2,24 @@ import axios from 'axios';
 import apiConst from 'mallin-app/src/const/api';
 
 export default {
-	load: async (query) => {	
+	load: async (query) => {
 		try {
-			const response = await axios.get(`${apiConst.url}/building/test`);	
+			const response = await axios.get(`${apiConst.url}/building/test`);
 			const responseData = response.data;
 			return responseData;
 		} catch (ex) {
-			console.log(ex);	
+			console.log(ex);
 		}
-    	return [];
+		return [];
 	},
-	find: async (id) => {		
+	find: async (id) => {
 		try {
-			const response = await axios.get(`${apiConst.url}api/building/detail/${buildingId}`);	
+			const response = await axios.get(`${apiConst.url}api/building/detail/${buildingId}`);
 			const responseData = response.data;
 			return responseData;
 		} catch (ex) {
-			console.log(ex);	
+			console.log(ex);
 		}
-    return responseTest;
+		return responseTest;
 	},
 };
