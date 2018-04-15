@@ -1,0 +1,5090 @@
+[
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780244730
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780245337
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996840966728495,
+      "longitude": 105.85437309278032
+    },
+    "time": 1523780245518
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780245936
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780246534
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99684192057578,
+      "longitude": 105.85437308286944
+    },
+    "time": 1523780246619
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99684232702234,
+      "longitude": 105.8543727612351
+    },
+    "time": 1523780246706
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996842538869267,
+      "longitude": 105.85437270084215
+    },
+    "time": 1523780246777
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780247150
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780247769
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780248353
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780248988
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780249611
+  },
+  {
+    "type": "wp",
+    "latlng": {
+      "latitude": 20.99685524,
+      "longitude": 105.85437624
+    },
+    "time": 1523780249703
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780250193
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780250787
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99684248796213,
+      "longitude": 105.85437260969323
+    },
+    "time": 1523780250922
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996842415739792,
+      "longitude": 105.85437254170913
+    },
+    "time": 1523780251013
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99684306441633,
+      "longitude": 105.85437227650422
+    },
+    "time": 1523780251114
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996842594625893,
+      "longitude": 105.8543724190132
+    },
+    "time": 1523780251182
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780251430
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996842984588486,
+      "longitude": 105.85437271331878
+    },
+    "time": 1523780251625
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780252055
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780252698
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780253344
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780253985
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780254616
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780255252
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780255889
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996843258572564,
+      "longitude": 105.85437256841307
+    },
+    "time": 1523780256037
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996844051239005,
+      "longitude": 105.85437318325955
+    },
+    "time": 1523780256245
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996830529363464,
+      "longitude": 105.85437661008686
+    },
+    "time": 1523780256317
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99682564317614,
+      "longitude": 105.8543758124585
+    },
+    "time": 1523780256422
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681951739526,
+      "longitude": 105.85437727624674
+    },
+    "time": 1523780256624
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780256697
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681344933043,
+      "longitude": 105.85437703796796
+    },
+    "time": 1523780256976
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780257275
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996806237083472,
+      "longitude": 105.85437813521614
+    },
+    "time": 1523780257580
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780257864
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780258477
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780259113
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780259748
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780260399
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780261036
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780261660
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780262269
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780262877
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996798886296343,
+      "longitude": 105.85437880730964
+    },
+    "time": 1523780262969
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996792784814122,
+      "longitude": 105.85437925561497
+    },
+    "time": 1523780263064
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780263488
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780264110
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780264744
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780265365
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780265998
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780266633
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780267273
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99678672242658,
+      "longitude": 105.85437854724125
+    },
+    "time": 1523780267599
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996769926135247,
+      "longitude": 105.85437803311123
+    },
+    "time": 1523780267711
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996764548218476,
+      "longitude": 105.85437724793876
+    },
+    "time": 1523780267777
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996760825460914,
+      "longitude": 105.85437724352532
+    },
+    "time": 1523780267848
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675319260365,
+      "longitude": 105.85437751184001
+    },
+    "time": 1523780267935
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996723324116427,
+      "longitude": 105.85438124153734
+    },
+    "time": 1523780268005
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996723324116427,
+      "longitude": 105.85438124153734
+    },
+    "time": 1523780268079
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780268156
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996720973599217,
+      "longitude": 105.85437909500683
+    },
+    "time": 1523780268306
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671649954576,
+      "longitude": 105.85437754886594
+    },
+    "time": 1523780268646
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780268770
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671649954576,
+      "longitude": 105.85437754886594
+    },
+    "time": 1523780269146
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780269367
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671203723752,
+      "longitude": 105.85437728279001
+    },
+    "time": 1523780269651
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780270002
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996706857871963,
+      "longitude": 105.85437644546415
+    },
+    "time": 1523780270149
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780270626
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99670162891855,
+      "longitude": 105.85437678584336
+    },
+    "time": 1523780270729
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996696396540806,
+      "longitude": 105.8543765115502
+    },
+    "time": 1523780271160
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780271267
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996691188895927,
+      "longitude": 105.85437711820786
+    },
+    "time": 1523780271663
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780271879
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996691188895927,
+      "longitude": 105.85437711820786
+    },
+    "time": 1523780272148
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780272514
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996686002537796,
+      "longitude": 105.85437633149124
+    },
+    "time": 1523780272648
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780273154
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996683863202737,
+      "longitude": 105.85437604972434
+    },
+    "time": 1523780273242
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99668598389316,
+      "longitude": 105.85437477671316
+    },
+    "time": 1523780273653
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780273855
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99668082672269,
+      "longitude": 105.85437510525422
+    },
+    "time": 1523780274157
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780274467
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99667472544757,
+      "longitude": 105.85437399783339
+    },
+    "time": 1523780274660
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780275102
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996669744866516,
+      "longitude": 105.85437304625724
+    },
+    "time": 1523780275208
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996669744866516,
+      "longitude": 105.85437304625724
+    },
+    "time": 1523780275669
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780275769
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996666207207028,
+      "longitude": 105.85436919360392
+    },
+    "time": 1523780276173
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780276407
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996666783985617,
+      "longitude": 105.85436384037922
+    },
+    "time": 1523780276660
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780277022
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99667125062797,
+      "longitude": 105.85436130836165
+    },
+    "time": 1523780277158
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99667125062797,
+      "longitude": 105.85436130836165
+    },
+    "time": 1523780277671
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780277766
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99667125062797,
+      "longitude": 105.85436130836165
+    },
+    "time": 1523780278166
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780278362
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99668055956077,
+      "longitude": 105.85436613505365
+    },
+    "time": 1523780278672
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780278982
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996685161828065,
+      "longitude": 105.8543721303088
+    },
+    "time": 1523780279172
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780279602
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996696629137503,
+      "longitude": 105.85437142753231
+    },
+    "time": 1523780279688
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996701508827137,
+      "longitude": 105.85437270778907
+    },
+    "time": 1523780280178
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780280292
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996701508827137,
+      "longitude": 105.85437270778907
+    },
+    "time": 1523780280663
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780280892
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996706533613708,
+      "longitude": 105.85437280505457
+    },
+    "time": 1523780281172
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780281533
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996711488729204,
+      "longitude": 105.85437369830791
+    },
+    "time": 1523780281676
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671651388864,
+      "longitude": 105.85437362611785
+    },
+    "time": 1523780282179
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780282277
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996721532639388,
+      "longitude": 105.85437390576261
+    },
+    "time": 1523780282677
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780282907
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996726534538606,
+      "longitude": 105.85437338645326
+    },
+    "time": 1523780283187
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780283524
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99673603887708,
+      "longitude": 105.85437430292865
+    },
+    "time": 1523780283688
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99674610182422,
+      "longitude": 105.85437415781462
+    },
+    "time": 1523780284174
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780284276
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675492775463,
+      "longitude": 105.85437225866931
+    },
+    "time": 1523780284671
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780284878
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996760709525613,
+      "longitude": 105.85437218917652
+    },
+    "time": 1523780285179
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780285481
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996765060917415,
+      "longitude": 105.85437355163894
+    },
+    "time": 1523780285677
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780286113
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996765060917415,
+      "longitude": 105.85437355163894
+    },
+    "time": 1523780286227
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996769837004926,
+      "longitude": 105.85437125564296
+    },
+    "time": 1523780286687
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780286781
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996773451650018,
+      "longitude": 105.85436721556236
+    },
+    "time": 1523780287192
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780287420
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996775092426535,
+      "longitude": 105.85436191601525
+    },
+    "time": 1523780287679
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780288024
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996776727398085,
+      "longitude": 105.85435661443414
+    },
+    "time": 1523780288175
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780288662
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996777392885114,
+      "longitude": 105.85435107947758
+    },
+    "time": 1523780288785
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996779040661696,
+      "longitude": 105.85434578239382
+    },
+    "time": 1523780289186
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780289399
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996780176496777,
+      "longitude": 105.854340334916
+    },
+    "time": 1523780289691
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780289991
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996780002211345,
+      "longitude": 105.85433821207016
+    },
+    "time": 1523780290193
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780290604
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996781502211537,
+      "longitude": 105.85433292337574
+    },
+    "time": 1523780290700
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.9967835462485,
+      "longitude": 105.8543278455856
+    },
+    "time": 1523780291183
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780291294
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99678524103521,
+      "longitude": 105.85432262403067
+    },
+    "time": 1523780291683
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780291911
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99678757086566,
+      "longitude": 105.85431768778709
+    },
+    "time": 1523780292187
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780292525
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99678757086566,
+      "longitude": 105.85431768778709
+    },
+    "time": 1523780292686
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780293146
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996789398126595,
+      "longitude": 105.85431251714293
+    },
+    "time": 1523780293245
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99679167101834,
+      "longitude": 105.8543075508892
+    },
+    "time": 1523780293699
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780293810
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996793438324868,
+      "longitude": 105.85430235666772
+    },
+    "time": 1523780294199
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780294410
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99679585829965,
+      "longitude": 105.8542974698504
+    },
+    "time": 1523780294704
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780295011
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996764553841857,
+      "longitude": 105.85428742029406
+    },
+    "time": 1523780295204
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780295652
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996763472210386,
+      "longitude": 105.85428560546002
+    },
+    "time": 1523780295773
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996758345267775,
+      "longitude": 105.854285357684
+    },
+    "time": 1523780296195
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780296319
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996753231141064,
+      "longitude": 105.85428489918534
+    },
+    "time": 1523780296698
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780296924
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996748153970582,
+      "longitude": 105.85428569749564
+    },
+    "time": 1523780297206
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780297538
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.9967430233113,
+      "longitude": 105.8542855627275
+    },
+    "time": 1523780297702
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780298175
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996737979225234,
+      "longitude": 105.85428657119468
+    },
+    "time": 1523780298296
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996737979225234,
+      "longitude": 105.85428657119468
+    },
+    "time": 1523780298713
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780298833
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996732866714748,
+      "longitude": 105.8542870496959
+    },
+    "time": 1523780299193
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780299435
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99672789436032,
+      "longitude": 105.85428840311293
+    },
+    "time": 1523780299702
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780300081
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996722785686316,
+      "longitude": 105.85428788020847
+    },
+    "time": 1523780300206
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671775345393,
+      "longitude": 105.85428895372867
+    },
+    "time": 1523780300712
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780300820
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671264873646,
+      "longitude": 105.85428838870551
+    },
+    "time": 1523780301211
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780301437
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996707533500334,
+      "longitude": 105.85428883294912
+    },
+    "time": 1523780301715
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780302049
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99670240130319,
+      "longitude": 105.85428884924563
+    },
+    "time": 1523780302215
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780302706
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99669741135673,
+      "longitude": 105.85429012713706
+    },
+    "time": 1523780302802
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99669227960032,
+      "longitude": 105.85429005368516
+    },
+    "time": 1523780303221
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780303339
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996687211136425,
+      "longitude": 105.85429091244278
+    },
+    "time": 1523780303710
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780303942
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996687211136425,
+      "longitude": 105.85429091244278
+    },
+    "time": 1523780304213
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780304558
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996682080028474,
+      "longitude": 105.85429102620415
+    },
+    "time": 1523780304721
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780305200
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996677048702303,
+      "longitude": 105.85429210453012
+    },
+    "time": 1523780305283
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996671965028344,
+      "longitude": 105.8542913546184
+    },
+    "time": 1523780305724
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780305847
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.9966674950954,
+      "longitude": 105.85428866925767
+    },
+    "time": 1523780306225
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780306450
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996668891096846,
+      "longitude": 105.85428341018984
+    },
+    "time": 1523780306729
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780307060
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996668891096846,
+      "longitude": 105.85428341018984
+    },
+    "time": 1523780307209
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780307698
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99667360108298,
+      "longitude": 105.85428123939919
+    },
+    "time": 1523780307834
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99667360108298,
+      "longitude": 105.85428123939919
+    },
+    "time": 1523780308217
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780308352
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996678634441444,
+      "longitude": 105.85428017188207
+    },
+    "time": 1523780308728
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780308954
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99668370995755,
+      "longitude": 105.85428098203354
+    },
+    "time": 1523780309223
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 6759.09619140625,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780309567
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99668370995755,
+      "longitude": 105.85428098203354
+    },
+    "time": 1523780309774
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996688839215697,
+      "longitude": 105.85428079639014
+    },
+    "time": 1523780310233
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996693851154415,
+      "longitude": 105.85427962013327
+    },
+    "time": 1523780310736
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996693851154415,
+      "longitude": 105.85427962013327
+    },
+    "time": 1523780311220
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996698979610834,
+      "longitude": 105.8542798293912
+    },
+    "time": 1523780311722
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780312021
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99670403396783,
+      "longitude": 105.85427888102775
+    },
+    "time": 1523780312268
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780312638
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99670916542747,
+      "longitude": 105.85427897509686
+    },
+    "time": 1523780312737
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996714238346964,
+      "longitude": 105.85427814670898
+    },
+    "time": 1523780313231
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780313328
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99671937054215,
+      "longitude": 105.85427816369278
+    },
+    "time": 1523780313738
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780313972
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99672440704875,
+      "longitude": 105.85427711314749
+    },
+    "time": 1523780314238
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780314586
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996729539054368,
+      "longitude": 105.85427716309512
+    },
+    "time": 1523780314722
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780315224
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996734639254807,
+      "longitude": 105.85427655356968
+    },
+    "time": 1523780315334
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996739745883268,
+      "longitude": 105.85427709866025
+    },
+    "time": 1523780315733
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780315862
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99674487659354,
+      "longitude": 105.85427723120883
+    },
+    "time": 1523780316232
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780316502
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99674978652645,
+      "longitude": 105.85427882219241
+    },
+    "time": 1523780316739
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780317142
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996754347099316,
+      "longitude": 105.85428132878452
+    },
+    "time": 1523780317260
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996758732312852,
+      "longitude": 105.85428416812384
+    },
+    "time": 1523780317746
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780317861
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996763386408436,
+      "longitude": 105.85428647155508
+    },
+    "time": 1523780318231
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780318451
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996763386408436,
+      "longitude": 105.85428647155508
+    },
+    "time": 1523780318739
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780319103
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996763386408436,
+      "longitude": 105.85428647155508
+    },
+    "time": 1523780319233
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780319736
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996763386408436,
+      "longitude": 105.85428647155508
+    },
+    "time": 1523780319836
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99676850308393,
+      "longitude": 105.85428604652303
+    },
+    "time": 1523780320244
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780320371
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99677363521317,
+      "longitude": 105.85428601402724
+    },
+    "time": 1523780320748
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780321008
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996778708494162,
+      "longitude": 105.85428518815353
+    },
+    "time": 1523780321251
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780321622
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996783839953373,
+      "longitude": 105.85428509405807
+    },
+    "time": 1523780321740
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996788869897312,
+      "longitude": 105.85428400844461
+    },
+    "time": 1523780322238
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780322361
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99679398378445,
+      "longitude": 105.85428354692581
+    },
+    "time": 1523780322740
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780322995
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99679900353147,
+      "longitude": 105.85428240905141
+    },
+    "time": 1523780323246
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780323609
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996804127626948,
+      "longitude": 105.85428271644082
+    },
+    "time": 1523780323758
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996809197433624,
+      "longitude": 105.85428186671864
+    },
+    "time": 1523780324255
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780324359
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681431197624,
+      "longitude": 105.85428231992614
+    },
+    "time": 1523780324757
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780325000
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681431197624,
+      "longitude": 105.85428231992614
+    },
+    "time": 1523780325239
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780325601
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996819423738124,
+      "longitude": 105.85428183244024
+    },
+    "time": 1523780325739
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780326213
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996824482641962,
+      "longitude": 105.8542827529025
+    },
+    "time": 1523780326341
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99682958368664,
+      "longitude": 105.85428215144142
+    },
+    "time": 1523780326749
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780326879
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99683471571581,
+      "longitude": 105.85428219856547
+    },
+    "time": 1523780327253
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780327490
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996839768480704,
+      "longitude": 105.85428124063012
+    },
+    "time": 1523780327756
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780328102
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99684488431159,
+      "longitude": 105.85428167703853
+    },
+    "time": 1523780328271
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996849924124653,
+      "longitude": 105.85428270944635
+    },
+    "time": 1523780328748
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780328859
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996852778430473,
+      "longitude": 105.85428725140133
+    },
+    "time": 1523780329247
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780329495
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99685072220606,
+      "longitude": 105.85429225872323
+    },
+    "time": 1523780329750
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780330099
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99684637714268,
+      "longitude": 105.85429516721406
+    },
+    "time": 1523780330253
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780330715
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996841288748403,
+      "longitude": 105.85429587989978
+    },
+    "time": 1523780330830
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99683616194025,
+      "longitude": 105.85429613081082
+    },
+    "time": 1523780331261
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780331389
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996831126607685,
+      "longitude": 105.85429507390313
+    },
+    "time": 1523780331764
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780332017
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996826017730076,
+      "longitude": 105.85429559454705
+    },
+    "time": 1523780332249
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780332630
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996826017730076,
+      "longitude": 105.85429559454705
+    },
+    "time": 1523780332758
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996820896724515,
+      "longitude": 105.85429523345864
+    },
+    "time": 1523780333254
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780333402
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996815798408385,
+      "longitude": 105.85429586060488
+    },
+    "time": 1523780333759
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780334006
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996810666891033,
+      "longitude": 105.85429577017626
+    },
+    "time": 1523780334262
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780334612
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.9968055643593,
+      "longitude": 105.85429635715994
+    },
+    "time": 1523780334770
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780335230
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996800482796008,
+      "longitude": 105.85429559119858
+    },
+    "time": 1523780335356
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99679536386684,
+      "longitude": 105.8542959842569
+    },
+    "time": 1523780335756
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780335885
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996790243436088,
+      "longitude": 105.8542956140405
+    },
+    "time": 1523780336258
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780336512
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99678518167329,
+      "longitude": 105.85429651650419
+    },
+    "time": 1523780336759
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780337125
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996780050718744,
+      "longitude": 105.8542966378581
+    },
+    "time": 1523780337260
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780337760
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996774948863305,
+      "longitude": 105.8542972314702
+    },
+    "time": 1523780337883
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996769825077447,
+      "longitude": 105.85429691828308
+    },
+    "time": 1523780338270
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780338405
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996769825077447,
+      "longitude": 105.85429691828308
+    },
+    "time": 1523780338774
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780339035
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996764749902283,
+      "longitude": 105.85429773085293
+    },
+    "time": 1523780339254
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780339695
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675962016075,
+      "longitude": 105.85429790067683
+    },
+    "time": 1523780339793
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675496037684,
+      "longitude": 105.85430019103026
+    },
+    "time": 1523780340261
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780340382
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996750718405476,
+      "longitude": 105.85430326725286
+    },
+    "time": 1523780340764
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780340997
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99674897659387,
+      "longitude": 105.85430840800856
+    },
+    "time": 1523780341272
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780341618
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99674818505553,
+      "longitude": 105.85431380774837
+    },
+    "time": 1523780341773
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780342270
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996748749864594,
+      "longitude": 105.85431923968206
+    },
+    "time": 1523780342382
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996748987307356,
+      "longitude": 105.85432469895953
+    },
+    "time": 1523780342765
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780342906
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.9967501623294,
+      "longitude": 105.85433001892527
+    },
+    "time": 1523780343265
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780343516
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.9967501623294,
+      "longitude": 105.85433001892527
+    },
+    "time": 1523780343771
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780344145
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996750549634868,
+      "longitude": 105.85433546847054
+    },
+    "time": 1523780344271
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996751642648622,
+      "longitude": 105.85434080822202
+    },
+    "time": 1523780344778
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780344902
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675208554999,
+      "longitude": 105.8543462529631
+    },
+    "time": 1523780345280
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780345536
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675304498496,
+      "longitude": 105.85435162174612
+    },
+    "time": 1523780345784
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780346139
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996753075957805,
+      "longitude": 105.85435708677616
+    },
+    "time": 1523780346289
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780346768
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675381877517,
+      "longitude": 105.85436249435953
+    },
+    "time": 1523780346875
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996753823724696,
+      "longitude": 105.85436795948657
+    },
+    "time": 1523780347276
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780347406
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675492450679,
+      "longitude": 105.85437329742821
+    },
+    "time": 1523780347779
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780348042
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675510199963,
+      "longitude": 105.8543787592885
+    },
+    "time": 1523780348280
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780348652
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675646968729,
+      "longitude": 105.85438402678562
+    },
+    "time": 1523780348781
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99675646968729,
+      "longitude": 105.85438402678562
+    },
+    "time": 1523780349294
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780349411
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996757576586706,
+      "longitude": 105.85438936329263
+    },
+    "time": 1523780349769
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780350030
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996761387334416,
+      "longitude": 105.85439302400034
+    },
+    "time": 1523780350274
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780350658
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99676605730035,
+      "longitude": 105.8543952907159
+    },
+    "time": 1523780350790
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996771182375934,
+      "longitude": 105.8543950024496
+    },
+    "time": 1523780351282
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780351409
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996776311111784,
+      "longitude": 105.85439520379205
+    },
+    "time": 1523780351786
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780352035
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99678136551432,
+      "longitude": 105.85439425570382
+    },
+    "time": 1523780352289
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780352663
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996786480067975,
+      "longitude": 105.85439470877003
+    },
+    "time": 1523780352790
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996786480067975,
+      "longitude": 105.85439470877003
+    },
+    "time": 1523780353277
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780353409
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99679161107432,
+      "longitude": 105.85439482761447
+    },
+    "time": 1523780353781
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780354039
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996796392831236,
+      "longitude": 105.85439681252195
+    },
+    "time": 1523780354285
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780354669
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996801503581448,
+      "longitude": 105.85439731189108
+    },
+    "time": 1523780354823
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99680645974294,
+      "longitude": 105.85439873106104
+    },
+    "time": 1523780355287
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780355404
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.996811432793347,
+      "longitude": 105.8544000815753
+    },
+    "time": 1523780355794
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780356061
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681524005873,
+      "longitude": 105.85440374638945
+    },
+    "time": 1523780356294
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780356686
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681524005873,
+      "longitude": 105.85440374638945
+    },
+    "time": 1523780356789
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681674735779,
+      "longitude": 105.85440897050505
+    },
+    "time": 1523780357285
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780357419
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681591274527,
+      "longitude": 105.85441436288512
+    },
+    "time": 1523780357785
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780358032
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780358287
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780358652
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780358792
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780359269
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780359365
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780359801
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780359934
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780360285
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780360565
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780360793
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780361211
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780361318
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780361796
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780361929
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780362299
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780362552
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780362801
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780363205
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780363334
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780363811
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780363950
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780364293
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780364596
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780364796
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780365260
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780365366
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780365803
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780365936
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780366307
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780366565
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780366810
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780367234
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780367369
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780367798
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780367929
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780368304
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780368551
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780368805
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780369216
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780369344
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780369812
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780369947
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780370316
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780370573
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780370815
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780371221
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780371350
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780371809
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780371920
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780372312
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780372543
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780372815
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780373201
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780373317
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780373820
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780373956
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780374323
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780374586
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780374826
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780375238
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780375374
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780375814
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780375964
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780376315
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780376595
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780376821
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780377224
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780377350
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780377829
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780377958
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780378330
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780378587
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780378834
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780379247
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780379374
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780379824
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780379957
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780380326
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780380579
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780380828
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780381252
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780381410
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780381833
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780381967
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780382341
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780382595
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780382822
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780383238
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780383375
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780383831
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780383971
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780384334
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780384582
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780384837
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780385219
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780385367
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780385844
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780385974
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780386329
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780386589
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780386832
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780387235
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780387086
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780387556
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780387703
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780388060
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780388335
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780388563
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780388990
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780389130
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780389550
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780389782
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780390056
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780390410
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780390554
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780391063
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780391187
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780391565
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780391806
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780392067
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780392480
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780392620
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780393075
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780393213
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780393559
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780393827
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780394062
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780394459
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780394569
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780395070
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780395210
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780395576
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780395838
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780396073
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780396490
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780396608
+  },
+  {
+    "type": "indoor",
+    "latlng": {
+      "latitude": 20.99681365276141,
+      "longitude": 105.85441926961596
+    },
+    "time": 1523780397059
+  },
+  {
+    "type": "gps",
+    "latlng": {
+      "speed": 0,
+      "heading": 81,
+      "accuracy": 10477.6142578125,
+      "longitude": 105.8545824,
+      "altitude": 53.29999923706055,
+      "latitude": 20.996877999999995
+    },
+    "time": 1523780397174
+  }
+]

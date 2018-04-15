@@ -1,6 +1,6 @@
 import types from './types';
 
-export const setLocation = location => ({
+const setLocation = location => ({
   type: types.SET_LOCATION,
   payload: {
     location,
@@ -8,7 +8,7 @@ export const setLocation = location => ({
 });
 
 //area
-export const setCurrentArea = area => ({
+const setCurrentArea = area => ({
   type: types.SET_CURRENT_AREA,
   payload: {
     area,
@@ -16,31 +16,42 @@ export const setCurrentArea = area => ({
 });
 
 //building
-export const building_loading = () => ({ 
+const building_loading = () => ({ 
   type: types.BUILDING_LOADING
 });
-export const building_loaded = building => ({
+const building_loaded = building => ({
   type: types.BUILDING_LOADED, 
   payload:{
     building
   } 
 });
-export const building_load_error = error => ({
+const building_load_error = error => ({
   type: types.BUILDING_LOAD_ERROR, 
   error
 });
 
 //floor
-export const floor_loading = () => ({ 
-  type: FLOOR_LOADING
+const floor_loading = () => ({ 
+  type: types.FLOOR_LOADING
 });
-export const floor_loaded = floor => ({
-  type: FLOOR_LOADED, 
+const floor_loaded = floor => ({
+  type: types.FLOOR_LOADED, 
   payload: {
     floor
   }
 });
-export const floor_load_error = error => ({
-  type: FLOOR_LOAD_ERROR, 
+const floor_load_error = error => ({
+  type: types.FLOOR_LOAD_ERROR, 
   error
 });
+
+export default {
+  setLocation,
+  setCurrentArea,
+  building_loading,
+  building_loaded,
+  building_load_error,
+  floor_loading,
+  floor_loaded,
+  floor_load_error
+}

@@ -363,6 +363,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/myMap/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9efa296f97c7c9be4d6dfb0dfc2f159fdd5c2e5">
+        <dex dex="/home/rat/work-space/Mallin-app/android/app/build/intermediates/pre-dexed/debug/myMap-react-native-fs-unspecified_e048f7be4d85ccfff7495f8d2ca0ab37e723eb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rat/work-space/Mallin-app/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-telemetry/2.2.9/jars/classes.jar"
         jumboMode="false"
         optimize="true"

@@ -10,7 +10,7 @@ import AppWithState from 'mallin-app/src/navigation';
 import { operations } from 'mallin-app/src/modules/location';
 
 const store = createStore(allReducer, applyMiddleware(thunk));
-//store.dispatch (operations.startWatching());
+store.dispatch (operations.startWatching());
 
 export default class App extends React.Component {
   
