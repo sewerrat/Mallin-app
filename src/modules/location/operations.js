@@ -28,6 +28,17 @@ const loadBuilding = function (buildingId) {
 };
 
 const loadFloor = atlasId => async (dispatch, getState) => {
+	//test code
+	const testFloor= {
+		_id: '598995439412f10a09bfce9f'
+	}
+	dispatch(actions.floor_loaded(floor));
+	if (!currentBuilding || currentBuilding._id !== floor.buildingId) {
+		dispatch(loadBuilding(floor.buildingId));
+	}
+	return testFloor();
+	//end test code
+	
 	const { currentBuilding } = getState().location;
 	try {
 		const floor = FloorService.findByAtlas(atlasId);
