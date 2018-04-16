@@ -4,6 +4,7 @@ import React from "react";
 import MainFrame from "mallin-app/src/components/Template/MainFrame";
 import ShowMap from 'mallin-app/src/containers/Common/ShowMap';
 import Modal from './modal';
+import InteractableView from './interatable';
 
 export default class HomeScreen extends React.Component {
 	
@@ -24,7 +25,7 @@ export default class HomeScreen extends React.Component {
 	render() {
 		return(
 			<React.Fragment>
-				< Modal />
+				< InteractableView />
 			</React.Fragment>
 		)
 	}

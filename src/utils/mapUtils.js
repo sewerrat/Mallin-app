@@ -1,5 +1,4 @@
 import { NativeEventEmitter } from 'react-native';
-import IndoorManager from 'react-native-indoor-manager';
 
 import mapConst from 'mallin-app/src/const/mapConst';
 
