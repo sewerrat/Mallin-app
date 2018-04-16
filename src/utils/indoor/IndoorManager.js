@@ -8,6 +8,8 @@ const minTime = Math.min.apply(null, sortedData.map(a => a.time));
 const maxTime = Math.max.apply(null, sortedData.map(a => a.time));
 const atlasId = '';
 
+const STEP = 1000;
+
 let time = minTime;
 let reversed = false;
 
@@ -15,15 +17,15 @@ export const process = () => {
   let currentData = [];
 
   if (reversed) {
-    currentData = sortedData.filter(data => data.time >= time && data.time < time + 100);
+    currentData = sortedData.filter(data => data.time >= time && data.time < time + STEP);
   } else {
-    currentData = sortedData.filter(data => data.time <= time && data.time > time - 100);
+    currentData = sortedData.filter(data => data.time <= time && data.time > time - STEP);
   }
 
   if (reversed) {
-    time -= 100;
+    time -= STEP;
   } else {
-    time += 100;
+    time += STEP;
   }
 
   if (time < minTime) {
@@ -35,13 +37,13 @@ export const process = () => {
   }
 
   currentData.filter(a => a.type === 'gps').forEach(a => {
-    const { lat, lng } = a.latlng;
-    gpsListener.forEach(listener => listener({ lat, lng }));
+    const { latitude, longitude } = a.latlng;
+    gpsListener.forEach(listener => listener({ latitude, longitude }));
   });;
 
   currentData.filter(a => a.type === 'indoor').forEach(a => {
-    const { lat, lng } = a.latlng;
-    indoorListener.forEach(listener => listener({lat, lng}));
+    const { latitude, longitude } = a.latlng;
+    indoorListener.forEach(listener => listener({ latitude, longitude }));
   });
 
   setTimeout(process, 100);

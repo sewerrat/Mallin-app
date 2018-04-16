@@ -6,6 +6,6 @@ export default map = StyleSheet.create({
 	},
 	havePermission: {
 			flex: 1,
-		backgroundColor: 'red'
+		//backgroundColor: 'red'
 	}
 });
