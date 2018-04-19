@@ -3,13 +3,18 @@ import React from "react";
 
 import MainFrame from "mallin-app/src/components/Template/MainFrame";
 import ShowMap from 'mallin-app/src/containers/Common/ShowMap';
-import Modal from './modal';
 import InteractableView from './interatable';
+
+import InteractableStyle from 'mallin-app/src/styles/interactable';
 
 export default class HomeScreen extends React.Component {
 	
 	constructor(props) {
 		super(props);
+	}
+
+	renderFooter() {
+		return null;
 	}
 
 	render() {
