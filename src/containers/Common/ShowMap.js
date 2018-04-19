@@ -12,7 +12,8 @@ export default connect(
 		location: location.location,
 		styleURL: map.styleURL,
 		floors: floor.floors,
-		isAndroidPermissionGranted: map.isAndroidPermissionGranted
+		isAndroidPermissionGranted: map.isAndroidPermissionGranted,
+		currentPath: location.currentPath
 	}),
 	dispatch => ({
 		changeMap(mapInfo) {

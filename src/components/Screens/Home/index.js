@@ -11,21 +11,18 @@ export default class HomeScreen extends React.Component {
 	constructor(props) {
 		super(props);
 	}
+
+	render() {
+		return (
+			<InteractableView />
+		)
+	}
 	
 	renderContent() {
 		return (
 			<React.Fragment>
-				<Content padder>
-					<ShowMap />
-				</Content>
-			</React.Fragment>
-		)
-	}
-
-	render() {
-		return(
-			<React.Fragment>
-				< InteractableView />
+				<ShowMap />
+				<InteractableView />
 			</React.Fragment>
 		)
 	}

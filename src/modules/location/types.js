@@ -5,9 +5,11 @@ const BUILDING_LOADING = 'mallin-app/location/BUILDING_LOADING';
 const BUILDING_LOADED = 'mallin-app/location/BUILDING_LOADED';
 const BUILDING_LOAD_ERROR = 'mallin-app/location/BUILDING_LOAD_ERROR';
 
-const FLOOR_LOADING = 'mallin-app/map/FLOOR_LOADING';
-const FLOOR_LOADED = 'mallin-app/map/FLOOR_LOADED';
-const FLOOR_LOAD_ERROR = 'mallin-app/map/FLOOR_LOAD_ERROR';
+const FLOOR_LOADING = 'mallin-app/location/FLOOR_LOADING';
+const FLOOR_LOADED = 'mallin-app/location/FLOOR_LOADED';
+const FLOOR_LOAD_ERROR = 'mallin-app/location/FLOOR_LOAD_ERROR';
+
+const DRAW_PATH = 'mallin-app/location/DRAW_PATH';
 
 export default {
     SET_LOCATION,
@@ -17,6 +19,7 @@ export default {
     BUILDING_LOAD_ERROR,
     FLOOR_LOADING,
     FLOOR_LOADED,
-    FLOOR_LOAD_ERROR
+    FLOOR_LOAD_ERROR,
+    DRAW_PATH
 }
 

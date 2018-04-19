@@ -6,6 +6,7 @@ const initialState = {
 	currentArea: undefined,
 	currentFloor: undefined,
 	currentBuilding: undefined,
+	currentPath: []
 };
 export default (state = initialState, action) => {
 	switch (action.type) {
@@ -17,7 +18,7 @@ export default (state = initialState, action) => {
 		}
 
 		case types.BUILDING_LOADED: {
-			const currentBuilding = action.payload.currentBuilding;
+			const currentBuilding = action.payload.building;
 			return {
 				...state,
 				currentBuilding,
@@ -41,7 +42,7 @@ export default (state = initialState, action) => {
 		}
 
 		case types.FLOOR_LOADED: {
-			const currentFloor = action.payload.currentFloor;
+			const currentFloor = action.payload.floor;
 			return {
 				...state,
 				currentFloor,
@@ -73,6 +74,12 @@ export default (state = initialState, action) => {
 			};
 		}
 
+		case types.DRAW_PATH: {
+			return {
+				...state,
+				currentPath: action.payload.currentPath
+			}
+		}
 
 		default:
 			return state;

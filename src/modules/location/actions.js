@@ -45,6 +45,13 @@ const floor_load_error = error => ({
   error
 });
 
+const draw_path = newPath => ({
+  type: types.DRAW_PATH,
+  payload: {
+    currentPath: newPath
+  }
+});
+
 export default {
   setLocation,
   setCurrentArea,
@@ -53,5 +60,6 @@ export default {
   building_load_error,
   floor_loading,
   floor_loaded,
-  floor_load_error
+  floor_load_error,
+  draw_path
 }

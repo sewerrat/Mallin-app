@@ -3,76 +3,95 @@ import { StyleSheet, Text, View } from 'react-native';
 import MapboxGL from '@mapbox/react-native-mapbox-gl';
 
 import mapConst from 'mallin-app/src/const/mapConst';
-import Resource from './resource';
+import FloorMapLayer from './floorMapLayer';
 import { common, map } from 'mallin-app/src/styles';
-
-import { IndoorManager } from 'mallin-app/src/utils/indoor/IndoorManager';
+import {getFloorMapUrl} from 'mallin-app/src/utils/mapUtils';
 
 export default class ShowMap extends Component {
-	constructor(props) {
-		super(props);
-		this.state = {
-			coords: []
-		}
-	}
 
-	componentDidMount() {
-		IndoorManager.addListener(({ latitude, longitude }) => {
-			let newCoords = [
-				...this.state.coords,
-				[longitude, latitude]
-			];
-			while (newCoords.length > 10) {
-				newCoords.shift();
-			}
-			this.setState({
-				coords: newCoords
-			});
-		});
-	}
-
-	renderResource() {
+	renderFloorMapLayer() {
 		//return <Resource floorID={this.props.currentFloors._id} floors={this.props.floors} />
 		return (
-			<MapboxGL.RasterSource
-				key='testRS'
-				id='test'
-				tms={true}
-				url={'http://mallin-backend.herokuapp.com/floors/map_layer/598995439412f10a09bfce9f/{z}/{x}/{y}'}>
-				<MapboxGL.RasterLayer id='testLayer' sourceID='test' />
-			</MapboxGL.RasterSource>
+			<FloorMapLayer
+			 floorID={this.props.currentFloor._id} 
+			 floors = {[this.props.currentFloor]}
+			 />
 		)
 	}
 
-	render() {
-
+	renderPathLayer() {
 		return (
-			<View style={map.havePermission}>
-				<Text>{this.props.floorID}</Text>
+			<MapboxGL.ShapeSource id="path" shape={{
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "LineString",
+					"coordinates": this.props.currentPath
+				}
+			}}>
+				<MapboxGL.LineLayer
+					id="asdf"
+					style={{
+						lineColor: 'red',
+						lineWidth: 10,
+						lineOpacity: 0.84,
+					}}
+				/>
+			</MapboxGL.ShapeSource>
+		)
+	}
+
+	renderMap() {
+		if (this.props.currentFloor && this.props.location) {
+
+			// show indoor map if got currentFloor
+			const centerCoord = [this.props.location.longitude, this.props.location.latitude];
+			return(
 				<MapboxGL.MapView
-					centerCoordinate={this.state.coords[this.state.coords.length - 1] ? this.state.coords[this.state.coords.length - 1] : [-122.48369693756104, 37.83381888486939]}
+					centerCoordinate={centerCoord}
 					zoomLevel={21}
 					//styleURL={this.props.styleURL}
 					style={map.map}>
-
-					<MapboxGL.ShapeSource id="path" shape={{
-						"type": "Feature",
-						"properties": {},
-						"geometry": {
-							"type": "LineString",
-							"coordinates": this.state.coords
-						}
-					}}>
-						<MapboxGL.LineLayer
-							id="asdf"
-							style={{
-								lineColor: 'red',
-								lineWidth: 3,
-								lineOpacity: 0.84,
-							}}
-						/>
-					</MapboxGL.ShapeSource>
+					{this.renderPathLayer()}
+					<MapboxGL.RasterSource
+						id='test'
+						tms={true}
+						tileSize={150}
+						url='http://pluspng.com/img-png/facebook-logo-png-image-2335-1403.png?{z}{x}{y}'
+						//url='http://mallin-backend.herokuapp.com/api/floors/map_layer/598995439412f10a09bfce9f/{z}/{x}/{y}'
+						>
+						<MapboxGL.RasterLayer id='testLayer' sourceID='test'/>
+					</MapboxGL.RasterSource>
 				</MapboxGL.MapView>
+			)
+			
+		} else {
+			return (
+				<MapboxGL.MapView
+					zoomLevel={18}
+					styleURL={this.props.styleURL}
+					style={map.map}/>
+			)
+		}
+	}
+
+	renderDebug() {
+		return (
+			<View>
+				<Text>Building: {this.props.currentBuilding? this.props.currentBuilding.name: 'none'}</Text>
+				<Text>Floor: {this.props.currentFloor? this.props.currentFloor.name: 'none'}</Text>
+				<Text>Url: {this.props.currentFloor? getFloorMapUrl(this.props.currentFloor._id): 'none'}</Text>
+				<Text>Path: {this.props.currentPath? JSON.stringify(this.props.currentPath) : '[]'}</Text>
+				<Text>Latlng: {this.props.location? `[${[this.props.location.longitude]}, ${[this.props.location.latitude]}]`: '[]'}</Text>
+			</View>
+		)
+		
+	}
+
+	render() {
+		return (
+			<View style={map.havePermission}>
+				{this.renderMap()}
 			</View>
 		);
 		// return (

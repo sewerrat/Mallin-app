@@ -71,9 +71,9 @@ public final class R {
 		public static final int mapbox_uiZoomGestures = 0x7f010132;
 	}
 	public static final class color {
-		public static final int mapbox_blue = 0x7f0b001d;
-		public static final int mapbox_gray = 0x7f0b001e;
-		public static final int mapbox_gray_dark = 0x7f0b001f;
+		public static final int mapbox_blue = 0x7f0b0020;
+		public static final int mapbox_gray = 0x7f0b0021;
+		public static final int mapbox_gray_dark = 0x7f0b0022;
 	}
 	public static final class dimen {
 		public static final int mapbox_eight_dp = 0x7f08005c;

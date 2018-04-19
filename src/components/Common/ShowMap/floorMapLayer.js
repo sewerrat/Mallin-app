@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+import { View, Text } from 'react-native';
 import MapboxGL from '@mapbox/react-native-mapbox-gl';
+
 import {getFloorMapUrl} from 'mallin-app/src/utils/mapUtils';
 
-export default class Resource extends Component {
+export default class FloorMapLayer extends Component {
   
   renderResource() {
     if(!this.props.floors) {

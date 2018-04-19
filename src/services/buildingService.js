@@ -14,10 +14,11 @@ export default {
 	},
 	find: async (id) => {
 		try {
-			const response = await axios.get(`${apiConst.url}api/building/detail/${buildingId}`);
+			const response = await axios.get(`${apiConst.url}api/building/detail/${id}`);
 			const responseData = response.data;
 			return responseData;
 		} catch (ex) {
+			alert(ex);
 			console.log(ex);
 		}
 		return responseTest;

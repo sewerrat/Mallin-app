@@ -8,8 +8,9 @@ import { Memory } from 'terraformer-geostore-memory';
 
 import { chain, map } from 'lodash';
 
-export function getFloorMapUrl(floorID) {
-	return mapConst.url.replace('{floorID}', floorID);
+export function getFloorMapUrl(floorId) {
+	const styleUrl = mapConst.url.replace('{floorId}', floorId);
+	return styleUrl;
 }
 
 export const getCurrentAreaByLocation = (floorId, location, areas, callback) => {
@@ -29,12 +30,12 @@ export const getCurrentAreaByLocation = (floorId, location, areas, callback) => 
 		},
 		properties: {},
 	  }));
-	const { lng, lat } = location;
+	const { longitude, latitude } = location;
   
   
 	store.contains({
 	  type: 'Point',
-	  coordinates: [lng, lat],
+	  coordinates: [longitude, latitude],
 	}, (err, res) => {
 	  if (err) {
 		console.log(err);
@@ -48,4 +49,23 @@ export const getCurrentAreaByLocation = (floorId, location, areas, callback) => 
 	  });
 	});
 };
+
+export const drawPath = (currentPath, location, callback) => {
+	currentPath = currentPath||[];
+	//push new point(position) to current path
+	let newPath = [
+		...currentPath,
+		[location.longitude, location.latitude]
+	];
+
+	//only keep limited points number in path array
+	while (newPath.length > 10) {
+		newPath.shift();
+	}
+
+	//callback
+	if (callback) {
+		callback(newPath);
+	}
+}
   
