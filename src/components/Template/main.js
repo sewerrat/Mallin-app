@@ -8,11 +8,11 @@ export default class Main extends Component {
   render() {
     return (
       <Container>
-        <AppHeader navigation={this.props.navigation}/>
+        {this.props.header}
         <Content padder>
           {this.props.children}
         </Content>
-        <AppFooter />
+        {this.props.footer}
       </Container>
     );
   }

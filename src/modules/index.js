@@ -3,6 +3,7 @@ import { combineReducers } from 'redux';
 import map from './map';
 import floor from './floor';
 import {reducer as location} from './location';
+//import common from './common';
 //import nav from './navigation';
 //import form from './form';
 
@@ -10,5 +11,6 @@ import {reducer as location} from './location';
 export default combineReducers({
   map,
   floor,
-  location
+  location,
+  //common
 })

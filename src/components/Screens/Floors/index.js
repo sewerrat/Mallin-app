@@ -14,9 +14,12 @@ export default class Floors extends Component {
   }
 
   renderListFloors() {
-    return this.props.floors.map( floor => (
-      <Item key={`floors-list${floor.floorID}`} label={floor.name} value={floor._id} />
-    ));
+    if(this.props.currentBuilding) {
+      return this.props.currentBuilding.floors.map( floor => (
+        <Item key={`floors-list${floor.floorID}`} label={floor.name} value={floor._id} />
+      ));
+    }
+    return <Item label="No floor found!" />
   }
   
   renderHeader () {

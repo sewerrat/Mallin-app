@@ -6,7 +6,8 @@ import { chooseFloor } from 'mallin-app/src/modules/floor';
 
 export default connect(
   ({location}) => ({
-    currentBuilding: location.currentBuilding
+    currentBuilding: location.currentBuilding,
+    currentFloors: location.currentFloors
   }), 
   dispatch => ({
     chooseFloor(value) {
